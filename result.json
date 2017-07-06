@@ -11,7 +11,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542173",
-        "Area terreno": "12.50 m2"
+        "Area terreno": "12.50 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE PARQUEO CIUDAD DEL RIO",
@@ -25,7 +28,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542175",
-        "Area terreno": "12.50 m2"
+        "Area terreno": "12.50 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "TERRENO AL PIE DEL MAR EL PELADO PLAYAS",
@@ -39,7 +45,10 @@
         "ciudad": "Playas",
         "provincia": "Guayas",
         "codigo": "TR15420174",
-        "Area terreno": "677 m2"
+        "Area terreno": "677 m2",
+        "telefono": "0993909302",
+        "email": "lmosquera@cedenocabanilla.com",
+        "agente": "LOURDES MOSQUERA VALDEZ"
     },
     {
         "titulo": "VENTA DE PARQUEO CIUDAD DEL RIO",
@@ -52,7 +61,10 @@
         "barrio": "Malecón 2000",
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
-        "codigo": "1542174"
+        "codigo": "1542174",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE LOCAL Y OFICINAS DE OPORTUNIDAD EN EL CENTRO DE LA CIUDAD",
@@ -66,7 +78,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "OC0021",
-        "Area terreno": "72 m2"
+        "Area terreno": "72 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE TERRENO ESQUINERO BUIJO",
@@ -80,7 +95,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542115",
-        "Area terreno": "1310 m2"
+        "Area terreno": "1310 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "TERRENO VIA DURAN TAMBO - USO INDUSTRIAL",
@@ -94,7 +112,10 @@
         "ciudad": "Durán",
         "provincia": "Guayas",
         "codigo": "TR15420262",
-        "Area terreno": "5060 m2"
+        "Area terreno": "5060 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENDO OFICINA EDIFICIO INDUAUTO BUENA VISTA",
@@ -108,7 +129,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542286",
-        "Area terreno": "65 m2"
+        "Area terreno": "65 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE CONSULTORIO MÉDICO PLANTA BAJA EN CIUDADELA KENNEDY",
@@ -122,7 +146,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "LC15420012",
-        "Area terreno": "50 m2"
+        "Area terreno": "50 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE PARQUEO EN PUERTO SANTA ANA PARL",
@@ -136,7 +163,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542397",
-        "Area terreno": "14 m2"
+        "Area terreno": "14 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "INCREIBLE TERRENO VIA A LA COSTA EN CHONGON",
@@ -150,7 +180,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "TR15420095",
-        "Area terreno": "1880 m2"
+        "Area terreno": "1880 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "2 BODEGAS EN TRADE BUILDING",
@@ -164,7 +197,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542116",
-        "Area terreno": "17 m2"
+        "Area terreno": "17 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "TERRENO EN VENTA RUTA DEL SPONDYLUS",
@@ -178,7 +214,10 @@
         "ciudad": "RUTA DEL SOL",
         "provincia": "Santa Elena",
         "codigo": "TR15420175",
-        "Area terreno": "606 m2"
+        "Area terreno": "606 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENDO TERRENO EN PLAYAS GENERAL VILLAMIL",
@@ -192,7 +231,10 @@
         "ciudad": "Playas",
         "provincia": "Guayas",
         "codigo": "1542142",
-        "Area terreno": "330 m2"
+        "Area terreno": "330 m2",
+        "telefono": "0997227351",
+        "email": "cjsaavedra@cedenocabanilla.com",
+        "agente": "CARLOS JULIO SAAVEDRA"
     },
     {
         "titulo": "VENTA DEPARTAMENTO EN EL CENTRO DE LA CIUDAD",
@@ -206,7 +248,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "DR15420089",
-        "Area terreno": "76 m2"
+        "Area terreno": "76 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "TERRENO ESQUINERO PUNTA BLANCA  ROYAL DECAMERON PUNTA CENTINELA",
@@ -220,7 +265,10 @@
         "ciudad": "PUNTA BLANCA",
         "provincia": "Santa Elena",
         "codigo": "TR15420173",
-        "Area terreno": "1000 m2"
+        "Area terreno": "1000 m2",
+        "telefono": "0993909302",
+        "email": "lmosquera@cedenocabanilla.com",
+        "agente": "LOURDES MOSQUERA VALDEZ"
     },
     {
         "titulo": "VENTA DE LOCAL COMERCIAL E INMUEBLES CON SESIÓN DE DERECHO",
@@ -234,7 +282,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542351",
-        "Area terreno": "110 m2"
+        "Area terreno": "110 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE SUITE EN CIUDAD COLON",
@@ -248,7 +299,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542365",
-        "Area terreno": "30 m2"
+        "Area terreno": "30 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "TERRENOS DE OPORTUNIDAD EN MANTA",
@@ -262,7 +316,10 @@
         "ciudad": "MANTA",
         "provincia": "Manabí",
         "codigo": "TR15420163",
-        "Area terreno": "312.50 m2"
+        "Area terreno": "312.50 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE LOCAL EN PLANTA ALTA COSTALMAR",
@@ -276,7 +333,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542251",
-        "Area terreno": "48.96 m2"
+        "Area terreno": "48.96 m2",
+        "telefono": "0997227351",
+        "email": "cjsaavedra@cedenocabanilla.com",
+        "agente": "CARLOS JULIO SAAVEDRA"
     },
     {
         "titulo": "VENTA DE TERRENOS EN OLON DE OPORTUNIDAD",
@@ -290,7 +350,10 @@
         "ciudad": "RUTA DEL SOL",
         "provincia": "Santa Elena",
         "codigo": "154236",
-        "Area terreno": "900 m2"
+        "Area terreno": "900 m2",
+        "telefono": "0993909302",
+        "email": "lmosquera@cedenocabanilla.com",
+        "agente": "LOURDES MOSQUERA VALDEZ"
     },
     {
         "titulo": "VENTA DE LOCAL COMERCIAL PLANTA BAJA COSTALMAR VIA A LA COSTA",
@@ -304,7 +367,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542295",
-        "Area terreno": "38.21 m2"
+        "Area terreno": "38.21 m2",
+        "telefono": "0997227351",
+        "email": "cjsaavedra@cedenocabanilla.com",
+        "agente": "CARLOS JULIO SAAVEDRA"
     },
     {
         "titulo": "VENTA DE TERRENO LOTIZACION BUIJO",
@@ -318,7 +384,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542315",
-        "Area terreno": "3225 m2"
+        "Area terreno": "3225 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE OFICINA CITY OFFICE",
@@ -332,7 +401,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542298",
-        "Area terreno": "34.25 m2"
+        "Area terreno": "34.25 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE OFICINA EDIFICIO EQUILIBRIUM",
@@ -346,7 +418,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542211",
-        "Area terreno": "38.83 m2"
+        "Area terreno": "38.83 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE OFICINA REMODELADA EN LA AV 9 DE OCTUBRE",
@@ -360,7 +435,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542255",
-        "Area terreno": "119.02 m2"
+        "Area terreno": "119.02 m2",
+        "telefono": "0997227351",
+        "email": "cjsaavedra@cedenocabanilla.com",
+        "agente": "CARLOS JULIO SAAVEDRA"
     },
     {
         "titulo": "EXCELENTE UBICACION TERRENO VIA DAULE",
@@ -374,7 +452,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "TR15420058",
-        "Area terreno": "2500 m2"
+        "Area terreno": "2500 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "UNICO TERRENO EN VENTA MULTIFAMILIAR URBANIZACIÓN ENTRERIOS",
@@ -388,7 +469,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542167",
-        "Area terreno": "207 m2"
+        "Area terreno": "207 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "SE VENDE LOCAL COMERCIAL COSTALMAR SHOPPING",
@@ -402,7 +486,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542156",
-        "Area terreno": "39.09 m2"
+        "Area terreno": "39.09 m2",
+        "telefono": "0997227351",
+        "email": "cjsaavedra@cedenocabanilla.com",
+        "agente": "CARLOS JULIO SAAVEDRA"
     },
     {
         "titulo": "LINDA Y AMPLIA VIA SAMBORONDON KM 12",
@@ -416,7 +503,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "CR15420065",
-        "Area terreno": "98 m2"
+        "Area terreno": "98 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE LOCAL COMERCIAL COSTALMAR SHOPPING RENTABILIDAD SEGURA",
@@ -430,7 +520,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542308",
-        "Area terreno": "42.71 m2"
+        "Area terreno": "42.71 m2",
+        "telefono": "0997227351",
+        "email": "cjsaavedra@cedenocabanilla.com",
+        "agente": "CARLOS JULIO SAAVEDRA"
     },
     {
         "titulo": "VENDO DEPARTAMENTO CHIPIPE EDIFICIO SOLYMAR VISTA A MAR BRAVO",
@@ -444,7 +537,10 @@
         "ciudad": "SALINAS",
         "provincia": "Santa Elena",
         "codigo": "1542281",
-        "Area terreno": "95 m2"
+        "Area terreno": "95 m2",
+        "telefono": "0993909302",
+        "email": "lmosquera@cedenocabanilla.com",
+        "agente": "LOURDES MOSQUERA VALDEZ"
     },
     {
         "titulo": "VENTA DE DEPARTAMENTO POR ESTRENAR EN CHIPIPE SALINAS",
@@ -458,7 +554,10 @@
         "ciudad": "SALINAS",
         "provincia": "Santa Elena",
         "codigo": "1542280",
-        "Area terreno": "95 m2"
+        "Area terreno": "95 m2",
+        "telefono": "0993909302",
+        "email": "lmosquera@cedenocabanilla.com",
+        "agente": "LOURDES MOSQUERA VALDEZ"
     },
     {
         "titulo": "VENTA DE TERRENO MULTIFAMILIAR URBANIZACION VICOLINCI",
@@ -472,7 +571,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542209",
-        "Area terreno": "600 m2"
+        "Area terreno": "600 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "SE VENDE LOCAL EN PLANTA ALTA CENTRO COMERCIAL COSTALMAR SHOPPING",
@@ -486,7 +588,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542155",
-        "Area terreno": "74.79 m2"
+        "Area terreno": "74.79 m2",
+        "telefono": "0997227351",
+        "email": "cjsaavedra@cedenocabanilla.com",
+        "agente": "CARLOS JULIO SAAVEDRA"
     },
     {
         "titulo": "DEPARTAMENTO CERCA DE UNIVERSIDAD CATÓLICA",
@@ -500,7 +605,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "DR15420088",
-        "Area terreno": "130 m2"
+        "Area terreno": "130 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE TERRENO DE OPORTUNIDAD - VIA SAMBORONDON",
@@ -514,7 +622,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "23L8R8",
-        "Area terreno": "325 m2"
+        "Area terreno": "325 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE OFICINA THE POINT OPORTUNIDAD",
@@ -528,7 +639,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542347",
-        "Area terreno": "36.60 m2"
+        "Area terreno": "36.60 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "INCREIBLE TERRENO PARA CENTRO COMERCIAL",
@@ -542,7 +656,10 @@
         "ciudad": "SALINAS",
         "provincia": "Santa Elena",
         "codigo": "TR15420096",
-        "Area terreno": "3295.51 m2"
+        "Area terreno": "3295.51 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "OPORTUNIDAD TERRENO  BUIJO",
@@ -556,7 +673,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "TR15420076",
-        "Area terreno": "2572.50 m2"
+        "Area terreno": "2572.50 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "DEPARTAMENTO DE VENTA EN CHIPIPE SALINAS A ESTRENAR",
@@ -570,7 +690,10 @@
         "ciudad": "SALINAS",
         "provincia": "Santa Elena",
         "codigo": "1542278",
-        "Area terreno": "93 m2"
+        "Area terreno": "93 m2",
+        "telefono": "0993909302",
+        "email": "lmosquera@cedenocabanilla.com",
+        "agente": "LOURDES MOSQUERA VALDEZ"
     },
     {
         "titulo": "VENTA DE VILLA DE 1 PLANTA ALBORADA",
@@ -584,7 +707,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542300",
-        "Area terreno": "160 m2"
+        "Area terreno": "160 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VILLA EN LA CIUDADELA EL PARAISO",
@@ -598,7 +724,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "CR15420043",
-        "Area terreno": "214 m2"
+        "Area terreno": "214 m2",
+        "telefono": "0997227351",
+        "email": "cjsaavedra@cedenocabanilla.com",
+        "agente": "CARLOS JULIO SAAVEDRA"
     },
     {
         "titulo": "HOSTERIA CON INCREIBLE UBICACION",
@@ -612,7 +741,10 @@
         "ciudad": "Playas",
         "provincia": "Guayas",
         "codigo": "EC15420018",
-        "Area terreno": "15698 m2"
+        "Area terreno": "15698 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE VILLA DE ESTRENO EN URBANIZACIÓN CASTILLA",
@@ -626,7 +758,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542257",
-        "Area terreno": "113 m2"
+        "Area terreno": "113 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE LOCAL COMERCIAL COSTALMAR",
@@ -640,7 +775,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542252",
-        "Area terreno": "65.36 m2"
+        "Area terreno": "65.36 m2",
+        "telefono": "0997227351",
+        "email": "cjsaavedra@cedenocabanilla.com",
+        "agente": "CARLOS JULIO SAAVEDRA"
     },
     {
         "titulo": "SE VENDE DEPARTAMENTO POR ESTRENAR CHIPIPE SALINAS",
@@ -654,7 +792,10 @@
         "ciudad": "SALINAS",
         "provincia": "Santa Elena",
         "codigo": "1542277",
-        "Area terreno": "93 m2"
+        "Area terreno": "93 m2",
+        "telefono": "0993909302",
+        "email": "lmosquera@cedenocabanilla.com",
+        "agente": "LOURDES MOSQUERA VALDEZ"
     },
     {
         "titulo": "VENTA DE SUITE  EDIFICIO SAMBORONDON PLAZA",
@@ -668,7 +809,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542362",
-        "Area terreno": "54 m2"
+        "Area terreno": "54 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA  DE OFICINA DE ESTRENO CON VISTA AL RÍO",
@@ -682,7 +826,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "OC15420033",
-        "Area terreno": "45.80 m2"
+        "Area terreno": "45.80 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "OPORTUNIDAD IDEAL CENTRO DE SALUD EN DURAN",
@@ -696,7 +843,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "EC15420010",
-        "Area terreno": "324 m2"
+        "Area terreno": "324 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE TERRENO PEQUEÑO EN URBANIZACIÓN AQUAMARINA",
@@ -710,7 +860,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542168",
-        "Area terreno": "388.82 m2"
+        "Area terreno": "388.82 m2",
+        "telefono": "-",
+        "email": "polivesfc@cedenocabanilla.com",
+        "agente": "PATRICIA OLIVES FEBRES CORDERO"
     },
     {
         "titulo": "ESTRENE DEPARTAMENTO EN OCEAN",
@@ -724,7 +877,10 @@
         "ciudad": "Playas",
         "provincia": "Guayas",
         "codigo": "1542169",
-        "Area terreno": "77 m2"
+        "Area terreno": "77 m2",
+        "telefono": "0993909302",
+        "email": "lmosquera@cedenocabanilla.com",
+        "agente": "LOURDES MOSQUERA VALDEZ"
     },
     {
         "titulo": "VENTA DE DEPARTAMENTO PORTÓN DE LAS LOMAS PRIMER PISO",
@@ -738,7 +894,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542146",
-        "Area terreno": "128 m2"
+        "Area terreno": "128 m2",
+        "telefono": "0997227351",
+        "email": "cjsaavedra@cedenocabanilla.com",
+        "agente": "CARLOS JULIO SAAVEDRA"
     },
     {
         "titulo": "SE VENDE DEPARTAMENTO DE OPORTUNIDAD DOS DORMITORIOS EN CEIBOS POINT",
@@ -752,7 +911,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "DR15420192",
-        "Area terreno": "92.22 m2"
+        "Area terreno": "92.22 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE OFICINA DE ESTRENO THE POINT",
@@ -766,7 +928,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542348",
-        "Area terreno": "48 m2"
+        "Area terreno": "48 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE DEPARTAMENTO EN SAMBORONDON KM 1",
@@ -780,7 +945,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542375",
-        "Area terreno": "100 m2"
+        "Area terreno": "100 m2",
+        "telefono": "-",
+        "email": "polivesfc@cedenocabanilla.com",
+        "agente": "PATRICIA OLIVES FEBRES CORDERO"
     },
     {
         "titulo": "OPORTUNIDAD VILLA EN  LA VIA SAMBORONDON",
@@ -794,7 +962,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "CR15420054 ",
-        "Area terreno": "145 m2"
+        "Area terreno": "145 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENDO DEPARTAMENTO CHIPIPE SALINAS POR ESTRENAR TERCER PISO",
@@ -808,7 +979,10 @@
         "ciudad": "SALINAS",
         "provincia": "Santa Elena",
         "codigo": "1542279",
-        "Area terreno": "112 m2"
+        "Area terreno": "112 m2",
+        "telefono": "0993909302",
+        "email": "lmosquera@cedenocabanilla.com",
+        "agente": "LOURDES MOSQUERA VALDEZ"
     },
     {
         "titulo": "VENTA DEPARTAMENTO SALINAS SPONDYLUS 2",
@@ -822,7 +996,10 @@
         "ciudad": "SALINAS",
         "provincia": "Santa Elena",
         "codigo": "1542306",
-        "Area terreno": "100 m2"
+        "Area terreno": "100 m2",
+        "telefono": "0993909302",
+        "email": "lmosquera@cedenocabanilla.com",
+        "agente": "LOURDES MOSQUERA VALDEZ"
     },
     {
         "titulo": "VENTA DE LOCAL COMERCIAL EN PRIMER PISO",
@@ -836,7 +1013,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542250",
-        "Area terreno": "75 m2"
+        "Area terreno": "75 m2",
+        "telefono": "0997227351",
+        "email": "cjsaavedra@cedenocabanilla.com",
+        "agente": "CARLOS JULIO SAAVEDRA"
     },
     {
         "titulo": "VENTA DE AMPLIA SUITE TORRES DEL SOL 2",
@@ -850,7 +1030,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542328",
-        "Area terreno": "55 m2"
+        "Area terreno": "55 m2",
+        "telefono": "0997227351",
+        "email": "cjsaavedra@cedenocabanilla.com",
+        "agente": "CARLOS JULIO SAAVEDRA"
     },
     {
         "titulo": "VENTA DEPARTAMENTO PLANTA BAJA EN PUERTO AZUL",
@@ -864,7 +1047,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542182",
-        "Area terreno": "87.25 m2"
+        "Area terreno": "87.25 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "CASA RENTERA EN URDESA - PRECIO DE OPORTUNIDAD",
@@ -878,7 +1064,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "NR15420001",
-        "Area terreno": "382 m2"
+        "Area terreno": "382 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "SE VENDE LOCAL COMERCIAL ESQUINERO. COSTALMAR SHOPPING",
@@ -892,7 +1081,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542154",
-        "Area terreno": "75.09 m2"
+        "Area terreno": "75.09 m2",
+        "telefono": "0997227351",
+        "email": "cjsaavedra@cedenocabanilla.com",
+        "agente": "CARLOS JULIO SAAVEDRA"
     },
     {
         "titulo": "VENDO DE  FINCA VACACIONAL",
@@ -906,7 +1098,10 @@
         "ciudad": "General Antonio Elizalde",
         "provincia": "Guayas",
         "codigo": "VR15420005",
-        "Area terreno": "96 m2"
+        "Area terreno": "96 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE DEPARTAMENTO PLANTA BAJA EN SANTA CECILIA",
@@ -920,7 +1115,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542394",
-        "Area terreno": "105 m2"
+        "Area terreno": "105 m2",
+        "telefono": "0997227351",
+        "email": "cjsaavedra@cedenocabanilla.com",
+        "agente": "CARLOS JULIO SAAVEDRA"
     },
     {
         "titulo": "EN VENTA DEPARTAMENTO EN URDESA NORTE 100% AMOBLADO",
@@ -934,7 +1132,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "23LAIT",
-        "Area terreno": "56 m2"
+        "Area terreno": "56 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE TERRENO INDUSTRIAL SECTOR IPAC",
@@ -948,7 +1149,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542265",
-        "Area terreno": "1188 m2"
+        "Area terreno": "1188 m2",
+        "telefono": "0997227351",
+        "email": "cjsaavedra@cedenocabanilla.com",
+        "agente": "CARLOS JULIO SAAVEDRA"
     },
     {
         "titulo": "DEPARTAMENTO 1ER PISO VÍA SAMBORONDON",
@@ -962,7 +1166,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "154314",
-        "Area terreno": "90 m2"
+        "Area terreno": "90 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "OPORTUNIDAD OFICINA JUNTO AL MALL DEL SOL",
@@ -976,7 +1183,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "OC15420029",
-        "Area terreno": "39 m2"
+        "Area terreno": "39 m2",
+        "telefono": "0997227351",
+        "email": "cjsaavedra@cedenocabanilla.com",
+        "agente": "CARLOS JULIO SAAVEDRA"
     },
     {
         "titulo": "DE OPORTUNIDAD LOCAL COMERCIAL EN LA VIA DAULE",
@@ -990,7 +1200,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "LC15420011",
-        "Area terreno": "90 m2"
+        "Area terreno": "90 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE  LOCAL COMERCIAL VÍA A LA COSTA",
@@ -1004,7 +1217,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542249",
-        "Area terreno": "75 m2"
+        "Area terreno": "75 m2",
+        "telefono": "0997227351",
+        "email": "cjsaavedra@cedenocabanilla.com",
+        "agente": "CARLOS JULIO SAAVEDRA"
     },
     {
         "titulo": "VENTA DEPARTAMENTO OCEAN PLAYAS",
@@ -1018,7 +1234,10 @@
         "ciudad": "Playas",
         "provincia": "Guayas",
         "codigo": "1542307",
-        "Area terreno": "100 m2"
+        "Area terreno": "100 m2",
+        "telefono": "0993909302",
+        "email": "lmosquera@cedenocabanilla.com",
+        "agente": "LOURDES MOSQUERA VALDEZ"
     },
     {
         "titulo": "VENTA DE VILLA EN URB VILLA CLUB ETAPA NATURA",
@@ -1032,7 +1251,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542385",
-        "Area terreno": "140 m2"
+        "Area terreno": "140 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE TERRENO EN ISLA MOCOLI CON O SIN PROYECTO",
@@ -1046,7 +1268,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542388",
-        "Area terreno": "485 m2"
+        "Area terreno": "485 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE LOCAL COMERCIAL SAMBORONDON",
@@ -1060,7 +1285,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542352",
-        "Area terreno": "90 m2"
+        "Area terreno": "90 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE SUITE PLANTA BAJA VIA SAMBORONDON",
@@ -1074,7 +1302,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "154305",
-        "Area terreno": "65 m2"
+        "Area terreno": "65 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE OFICINA EN 9 DE OCTUBRE EDIFICIO SAN FRANCISCO 300",
@@ -1088,7 +1319,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542135",
-        "Area terreno": "213.80 m2"
+        "Area terreno": "213.80 m2",
+        "telefono": "0997227351",
+        "email": "cjsaavedra@cedenocabanilla.com",
+        "agente": "CARLOS JULIO SAAVEDRA"
     },
     {
         "titulo": "VENTA DE TERRENO KM 28 VIA DURAN MILAGRO A LA VIA",
@@ -1102,7 +1336,10 @@
         "ciudad": "Yaguachi",
         "provincia": "Guayas",
         "codigo": "1542324",
-        "Area terreno": "4.83 ha"
+        "Area terreno": "4.83 ha",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE PENTHOUSE EN SANTA CECILIA",
@@ -1116,7 +1353,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542396",
-        "Area terreno": "105 m2"
+        "Area terreno": "105 m2",
+        "telefono": "0997227351",
+        "email": "cjsaavedra@cedenocabanilla.com",
+        "agente": "CARLOS JULIO SAAVEDRA"
     },
     {
         "titulo": "ESPECTACULAR VILLA  DE ESTRENO EN BALI",
@@ -1130,7 +1370,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "CR15420133",
-        "Area terreno": "135.44 m2"
+        "Area terreno": "135.44 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA SUITE AMOBLADA CON VISTA AL RIO RIVERFRONT",
@@ -1144,7 +1387,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "CV15420007",
-        "Area terreno": "44 m2"
+        "Area terreno": "44 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE OFICINA DE ESTRENO THE POINT",
@@ -1158,7 +1404,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542330",
-        "Area terreno": "65.60 m2"
+        "Area terreno": "65.60 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VILLA EN  CEIBOS NORTE",
@@ -1172,7 +1421,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "CR15420151",
-        "Area terreno": "137.44 m2"
+        "Area terreno": "137.44 m2",
+        "telefono": "0997227351",
+        "email": "cjsaavedra@cedenocabanilla.com",
+        "agente": "CARLOS JULIO SAAVEDRA"
     },
     {
         "titulo": "VILLA EN VENTA EN EL BARRIO ORELLANA",
@@ -1186,7 +1438,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "CR15420163",
-        "Area terreno": "300 m2"
+        "Area terreno": "300 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE DEPARTAMENTO EN PLANTA ALTA SANTA CECILIA",
@@ -1200,7 +1455,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542395",
-        "Area terreno": "105 m2"
+        "Area terreno": "105 m2",
+        "telefono": "0997227351",
+        "email": "cjsaavedra@cedenocabanilla.com",
+        "agente": "CARLOS JULIO SAAVEDRA"
     },
     {
         "titulo": "VENTA DE BUEN DEPARTAMENTO EN PUERTO AZUL",
@@ -1214,7 +1472,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542123",
-        "Area terreno": "151 m2"
+        "Area terreno": "151 m2",
+        "telefono": "0997227351",
+        "email": "cjsaavedra@cedenocabanilla.com",
+        "agente": "CARLOS JULIO SAAVEDRA"
     },
     {
         "titulo": "LOCAL MAS OFICINA EN VENTA EN EL CENTRO DE LA CIUDAD",
@@ -1228,7 +1489,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "LC15420018",
-        "Area terreno": "130 m2"
+        "Area terreno": "130 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "URBANIZACION BALI, FINANCIAMIENTO VILLA MODELO AMED",
@@ -1242,7 +1506,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "CR15420169",
-        "Area terreno": "135.44 m2"
+        "Area terreno": "135.44 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "DEPARTAMENTO DE PLANTA BAJA EN VENTA COLINAS DE LOS CEIBOS",
@@ -1256,7 +1523,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "154310",
-        "Area terreno": "125.51 m2"
+        "Area terreno": "125.51 m2",
+        "telefono": "0997227351",
+        "email": "cjsaavedra@cedenocabanilla.com",
+        "agente": "CARLOS JULIO SAAVEDRA"
     },
     {
         "titulo": "FRENTE A LOS CEIBOS- ESPECTACULAR DEPARTAMENTO",
@@ -1270,7 +1540,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "50700705",
-        "Area terreno": "141 m2"
+        "Area terreno": "141 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "LOCAL ESQUINERO EN EL CENTRO DE GUAYAQUIL",
@@ -1284,7 +1557,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "LC15420031",
-        "Area terreno": "194.38 m2"
+        "Area terreno": "194.38 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VIA DAULE -  TERRENO COMERCIAL- VENTA",
@@ -1298,7 +1574,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "TR15420166",
-        "Area terreno": "5000 m2"
+        "Area terreno": "5000 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "DEPARTAMENTO EN EL MALECON DE GUAYAQUIL",
@@ -1312,7 +1591,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "DR15420160",
-        "Area terreno": "168 m2"
+        "Area terreno": "168 m2",
+        "telefono": "0997227351",
+        "email": "cjsaavedra@cedenocabanilla.com",
+        "agente": "CARLOS JULIO SAAVEDRA"
     },
     {
         "titulo": "DEPARTAMENTO 1ER PISO VÍA SAMBORONDON",
@@ -1326,7 +1608,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "154287",
-        "Area terreno": "91 m2"
+        "Area terreno": "91 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "OPORTUNIDAD VENTA DE TERRENO  LOMAS DE URDESA",
@@ -1340,7 +1625,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "225POL",
-        "Area terreno": "949 m2"
+        "Area terreno": "949 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "REMATO DEPARTAMENTO EN CEIBOS POINT DE DOS PISOS",
@@ -1354,7 +1642,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542210",
-        "Area terreno": "122 m2"
+        "Area terreno": "122 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE PENTHOUSE POR ESTRENAR EN CHIPIPE SALINAS",
@@ -1368,7 +1659,10 @@
         "ciudad": "SALINAS",
         "provincia": "Santa Elena",
         "codigo": "1542282",
-        "Area terreno": "147.13 m2"
+        "Area terreno": "147.13 m2",
+        "telefono": "0993909302",
+        "email": "lmosquera@cedenocabanilla.com",
+        "agente": "LOURDES MOSQUERA VALDEZ"
     },
     {
         "titulo": "DEPARTAMENTO PLANTA BAJA 100% AMOBLADO",
@@ -1382,7 +1676,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "154313",
-        "Area terreno": "110 m2"
+        "Area terreno": "110 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE DEPARTAMENTO EN PUERTO AZUL",
@@ -1396,7 +1693,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542119",
-        "Area terreno": "114 m2"
+        "Area terreno": "114 m2",
+        "telefono": "0997227351",
+        "email": "cjsaavedra@cedenocabanilla.com",
+        "agente": "CARLOS JULIO SAAVEDRA"
     },
     {
         "titulo": "OPORTUNIDAD FINCA VACACIONAL EN BUCAY",
@@ -1410,7 +1710,10 @@
         "ciudad": "Naranjito",
         "provincia": "Guayas",
         "codigo": "VR15420002 ",
-        "Area terreno": "10515 m2"
+        "Area terreno": "10515 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "OFICINA DE OPORTUNIDAD AV. 9 DE OCTUBRE",
@@ -1424,7 +1727,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "154309",
-        "Area terreno": "261.55 m2"
+        "Area terreno": "261.55 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "ESPECTACULAR DEPARTAMENTO URBANIZACION JADE",
@@ -1438,7 +1744,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542325",
-        "Area terreno": "150 m2"
+        "Area terreno": "150 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "URBANIZACION BALI, FINANCIAMIENTO VILLA MODELO BAMBU",
@@ -1452,7 +1761,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "CR15420168",
-        "Area terreno": "165.90 m2"
+        "Area terreno": "165.90 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE TERRENO EN MOCOLI URB L'ISOLA DE OPORTUNIDAD",
@@ -1466,7 +1778,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "TR15420216",
-        "Area terreno": "597.32 m2"
+        "Area terreno": "597.32 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "SE VENDE VILLA EN URBANIZACIÓN BELO HORIZONTE",
@@ -1480,7 +1795,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542134",
-        "Area terreno": "160 m2"
+        "Area terreno": "160 m2",
+        "telefono": "0997227351",
+        "email": "cjsaavedra@cedenocabanilla.com",
+        "agente": "CARLOS JULIO SAAVEDRA"
     },
     {
         "titulo": "VILLA TERMINADA DE OPORTUNIDAD URBANIZACION BALI",
@@ -1494,7 +1812,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "CR15420170",
-        "Area terreno": "135.44 m2"
+        "Area terreno": "135.44 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENDO AMPLIO DEPARTAMENTO VÍA SAMBORONDON ZONA TORNERO",
@@ -1508,7 +1829,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "DR15420072 ",
-        "Area terreno": "138 m2"
+        "Area terreno": "138 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "SE VENDE DEPARTAMENTO POR ESTRENAR PENTHOUSE  EN CHIPIPE SALINAS",
@@ -1522,7 +1846,10 @@
         "ciudad": "SALINAS",
         "provincia": "Santa Elena",
         "codigo": "1542283",
-        "Area terreno": "151.72 m2"
+        "Area terreno": "151.72 m2",
+        "telefono": "0993909302",
+        "email": "lmosquera@cedenocabanilla.com",
+        "agente": "LOURDES MOSQUERA VALDEZ"
     },
     {
         "titulo": "TERRENO DE OPORTUNIDAD ISLA MOCOLI URB L'ISOLA CON VISTA AL LAGO",
@@ -1536,7 +1863,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542143",
-        "Area terreno": "560.10 m2"
+        "Area terreno": "560.10 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA VILLA POR ESTRENAR URBANIZACIÓN LA CUMBRE",
@@ -1550,7 +1880,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542378",
-        "Area terreno": "160 m2"
+        "Area terreno": "160 m2",
+        "telefono": "0997227351",
+        "email": "cjsaavedra@cedenocabanilla.com",
+        "agente": "CARLOS JULIO SAAVEDRA"
     },
     {
         "titulo": "VENTA DE TERRENO ESQUINERO ISLA MOCOLI URB ISLA DEL RIO",
@@ -1564,7 +1897,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542157",
-        "Area terreno": "533 m2"
+        "Area terreno": "533 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "DEPARTAMENTO EN VENTA LINDA VISTA AL RIO",
@@ -1578,7 +1914,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "DR15420174",
-        "Area terreno": "175 m2"
+        "Area terreno": "175 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VILLA ESQUINERA -  CEIBOS NORTE",
@@ -1592,7 +1931,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "CR15420150",
-        "Area terreno": "151.80 m2"
+        "Area terreno": "151.80 m2",
+        "telefono": "0997227351",
+        "email": "cjsaavedra@cedenocabanilla.com",
+        "agente": "CARLOS JULIO SAAVEDRA"
     },
     {
         "titulo": "VENTA DE OFICINA CON 3 FRENTES ZONA UNIVERSIDAD GUAYAQUIL",
@@ -1606,7 +1948,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542256",
-        "Area terreno": "209.44 m2"
+        "Area terreno": "209.44 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "DE OPORTUNIDAD VENTA DEPARTAMENTO PLANTA BAJA GUAYAQUIL TENIS",
@@ -1620,7 +1965,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542220",
-        "Area terreno": "90 m2"
+        "Area terreno": "90 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "CASA EN VENTA  VIA SAMBORONDON DE OPORTUNIDAD",
@@ -1634,7 +1982,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "23K235",
-        "Area terreno": "206 m2"
+        "Area terreno": "206 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENDEMOS UN PISO CON 11 HABITACIONES PARA ESTUDIANTES O EJECUTIVOS",
@@ -1648,7 +1999,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": " DR15420092",
-        "Area terreno": "400 m2"
+        "Area terreno": "400 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "LOCAL COMERCIAL EN AVENIDA LEON FEBRES CORDERO",
@@ -1662,7 +2016,10 @@
         "ciudad": "Daule",
         "provincia": "Guayas",
         "codigo": "154302",
-        "Area terreno": "110 m2"
+        "Area terreno": "110 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DEPARTAMENTO EN CIUDAD DEL RIO",
@@ -1676,7 +2033,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "23L8GM",
-        "Area terreno": "70 m2"
+        "Area terreno": "70 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "TERRENO ISLA MOCOLI URB PUERTO MOCOLI",
@@ -1690,7 +2050,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "154250",
-        "Area terreno": "637 m2"
+        "Area terreno": "637 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "HERMOSA CASA RENTERA EN LA ALBORADA",
@@ -1704,7 +2067,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "23LROB",
-        "Area terreno": "360 m2"
+        "Area terreno": "360 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE DEPARTAMENTO CON TERRAZA EN CEIBOS POINT",
@@ -1718,7 +2084,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542178",
-        "Area terreno": "126.09 m2"
+        "Area terreno": "126.09 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "SE VENDE DEPARTAMENTO EN CEIBOS POINT A ESTRENAR",
@@ -1732,7 +2101,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "DR15420188",
-        "Area terreno": "126.09 m2"
+        "Area terreno": "126.09 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE 4 OFICINAS RENTERAS EN CENTRO DE GUAYAQUIL",
@@ -1746,7 +2118,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542323",
-        "Area terreno": "139.10 m2"
+        "Area terreno": "139.10 m2",
+        "telefono": "0997227351",
+        "email": "cjsaavedra@cedenocabanilla.com",
+        "agente": "CARLOS JULIO SAAVEDRA"
     },
     {
         "titulo": "EN VENTA LOFT DE ESTRENO URBANIZACIÓN LAS CUMBRES",
@@ -1760,7 +2135,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "DR15420062",
-        "Area terreno": "160 m2"
+        "Area terreno": "160 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE TERRENO ISLA MOCOLI URB ISLA DEL RIO",
@@ -1774,7 +2152,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542294",
-        "Area terreno": "532.62 m2"
+        "Area terreno": "532.62 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "URBANIZACION BALI, FINANCIAMIENTO VILLA MODELO DUA",
@@ -1788,7 +2169,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "CR15420171",
-        "Area terreno": "197.40 m2"
+        "Area terreno": "197.40 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE EXCLUSIVO TERRENO EN LA VIA SAMBORONDON DE OPORTUNIDAD",
@@ -1802,7 +2186,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "23KKCT",
-        "Area terreno": "637 m2"
+        "Area terreno": "637 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE ULTIMO LOCAL COMERCIAL AL RIO",
@@ -1816,7 +2203,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "154280",
-        "Area terreno": "110 m2"
+        "Area terreno": "110 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "TERRENO DE OPORTUNIDAD PARQUE INDUSTRIAL DURAN",
@@ -1830,7 +2220,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "TR15420158",
-        "Area terreno": "4000 m2"
+        "Area terreno": "4000 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE TERRENOS INDUSTRIALES ZONA DE FERIA GANADERA",
@@ -1844,7 +2237,10 @@
         "ciudad": "Durán",
         "provincia": "Guayas",
         "codigo": "1542288",
-        "Area terreno": "46000 m2"
+        "Area terreno": "46000 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE OFICINA EDIFICIO THE POINT",
@@ -1858,7 +2254,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542230",
-        "Area terreno": "82 m2"
+        "Area terreno": "82 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "DEPARTAMENTO PLANTA BAJA URB BOSQUES DE CASTILLA",
@@ -1872,7 +2271,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542226",
-        "Area terreno": "135 m2"
+        "Area terreno": "135 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "OFICINA REMODELADA AV 9 DE OCTUBRE",
@@ -1886,7 +2288,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "154308",
-        "Area terreno": "233.30 m2"
+        "Area terreno": "233.30 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "LINDO DEPARTAMENTO VIA SAMBORONDON",
@@ -1900,7 +2305,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "DR15420084",
-        "Area terreno": "135 m2"
+        "Area terreno": "135 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "ISLA MOCOLI URBANIZACION ARRECIFE EXCELENTE UBICACION",
@@ -1914,7 +2322,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "TR15420086",
-        "Area terreno": "568.26 m2"
+        "Area terreno": "568.26 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE PROPIEDAD COMERCIAL EN KENNEDY NORTE AVENIDA MIGUEL H ALCIVAR",
@@ -1928,7 +2339,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542170",
-        "Area terreno": "170 m2"
+        "Area terreno": "170 m2",
+        "telefono": "0997227351",
+        "email": "cjsaavedra@cedenocabanilla.com",
+        "agente": "CARLOS JULIO SAAVEDRA"
     },
     {
         "titulo": "TERRENO AL LAGO DE OPORTUNIDAD AL CANAL EN AIRES DEL BATAN $ 390C/M2",
@@ -1942,7 +2356,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "154306",
-        "Area terreno": "510 m2"
+        "Area terreno": "510 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "PROPIEDAD 1 PLANTA CDLA. BOLIVARIANA",
@@ -1956,7 +2373,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "154288",
-        "Area terreno": "200 m2"
+        "Area terreno": "200 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA TERRENO ESQUINERO ISLA MOCOLI",
@@ -1970,7 +2390,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542237",
-        "Area terreno": "664 m2"
+        "Area terreno": "664 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "HERMOSO PROYECTO DE DEPARTAMENTOS EN TORNERO III",
@@ -1984,7 +2407,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "DR15420052",
-        "Area terreno": "135 m2"
+        "Area terreno": "135 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VILLA DE ESTRENO CIUDAD CELESTE LA CORALIA",
@@ -1998,7 +2424,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542343",
-        "Area terreno": "180 m2"
+        "Area terreno": "180 m2",
+        "telefono": "-",
+        "email": "polivesfc@cedenocabanilla.com",
+        "agente": "PATRICIA OLIVES FEBRES CORDERO"
     },
     {
         "titulo": "VENTA DE TERRENO ISLA MOCOLI URB ISLA DEL RIO",
@@ -2012,7 +2441,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542272",
-        "Area terreno": "661.42 m2"
+        "Area terreno": "661.42 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "URBANIZACION BALI, FINANCIAMIENTO VILLA MODELO BARAT",
@@ -2026,7 +2458,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "CR15420172",
-        "Area terreno": "183.40 m2"
+        "Area terreno": "183.40 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA VILLA POR ESTRENAR PUERTO AZUL",
@@ -2040,7 +2475,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "CR15420165",
-        "Area terreno": "160 m2"
+        "Area terreno": "160 m2",
+        "telefono": "0997227351",
+        "email": "cjsaavedra@cedenocabanilla.com",
+        "agente": "CARLOS JULIO SAAVEDRA"
     },
     {
         "titulo": "VENDO DEPARTAMENTO EN SALINAS",
@@ -2054,7 +2492,10 @@
         "ciudad": "SALINAS",
         "provincia": "Santa Elena",
         "codigo": "1542345",
-        "Area terreno": "155 m2"
+        "Area terreno": "155 m2",
+        "telefono": "0993909302",
+        "email": "lmosquera@cedenocabanilla.com",
+        "agente": "LOURDES MOSQUERA VALDEZ"
     },
     {
         "titulo": "AMPLIO DEPARTAMENTO VÍA SAMBORONDON- PLANTA BAJA",
@@ -2068,7 +2509,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "DR15420083",
-        "Area terreno": "135 m2"
+        "Area terreno": "135 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "LINDO DEPARTAMENTO EN CEIBOS POINT CON PATIO PROPIO",
@@ -2082,7 +2526,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "DR15420189",
-        "Area terreno": "125.73 m2"
+        "Area terreno": "125.73 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE VILLA EN CEIBOS SECTOR COLEGIO BALANDRA",
@@ -2096,7 +2543,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542370",
-        "Area terreno": "228 m2"
+        "Area terreno": "228 m2",
+        "telefono": "0997227351",
+        "email": "cjsaavedra@cedenocabanilla.com",
+        "agente": "CARLOS JULIO SAAVEDRA"
     },
     {
         "titulo": "VENTA DE DEPARTAMENTO EN LOMAS DE URDESA EXCELENTE PRECIO Y UBICACION",
@@ -2110,7 +2560,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "22CFD1",
-        "Area terreno": "400 m2"
+        "Area terreno": "400 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "HERMOSA VILLA EN PUERTO AZUL",
@@ -2124,7 +2577,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "CR15420051",
-        "Area terreno": "350 m2"
+        "Area terreno": "350 m2",
+        "telefono": "0997227351",
+        "email": "cjsaavedra@cedenocabanilla.com",
+        "agente": "CARLOS JULIO SAAVEDRA"
     },
     {
         "titulo": "ESTRENO DE VILLA EN VENTA EN BOSQUES DE LA COSTA",
@@ -2138,7 +2594,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542350",
-        "Area terreno": "190 m2"
+        "Area terreno": "190 m2",
+        "telefono": "0997227351",
+        "email": "cjsaavedra@cedenocabanilla.com",
+        "agente": "CARLOS JULIO SAAVEDRA"
     },
     {
         "titulo": "VENTA DE EXCLUSIVO DEPARTAMENTO BELLINI 2",
@@ -2152,7 +2611,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "23L8T4",
-        "Area terreno": "79 m2"
+        "Area terreno": "79 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "EXCLUSIVA OFICINA COMERCIAL  MALECON",
@@ -2166,7 +2628,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "622881",
-        "Area terreno": "188 m2"
+        "Area terreno": "188 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENDO TERRENO EXCLUSIVO URBANIZACIÓN LA CASCADA VIA A SAMBORONDÓN",
@@ -2180,7 +2645,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542141",
-        "Area terreno": "780 m2"
+        "Area terreno": "780 m2",
+        "telefono": "0997227351",
+        "email": "cjsaavedra@cedenocabanilla.com",
+        "agente": "CARLOS JULIO SAAVEDRA"
     },
     {
         "titulo": "VENTA DE VILLA EN URDESA PARA NEGOCIO DE SUITES",
@@ -2194,7 +2662,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542185",
-        "Area terreno": "220 m2"
+        "Area terreno": "220 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE PROPIEDAD COMERCIAL CDLA ATARAZANA",
@@ -2208,7 +2679,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542305",
-        "Area terreno": "600 m2"
+        "Area terreno": "600 m2",
+        "telefono": "-",
+        "email": "polivesfc@cedenocabanilla.com",
+        "agente": "PATRICIA OLIVES FEBRES CORDERO"
     },
     {
         "titulo": "HERMOSA VILLA  EN AVENIDA LEOPOLDO CARRERA",
@@ -2222,7 +2696,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "CR15420045 ",
-        "Area terreno": "274 m2"
+        "Area terreno": "274 m2",
+        "telefono": "0997227351",
+        "email": "cjsaavedra@cedenocabanilla.com",
+        "agente": "CARLOS JULIO SAAVEDRA"
     },
     {
         "titulo": "VENTA DE LOCAL COMERCIAL CON PARQUEO EN KENNEDY NORTE",
@@ -2236,7 +2713,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542121",
-        "Area terreno": "136 m2"
+        "Area terreno": "136 m2",
+        "telefono": "0997227351",
+        "email": "cjsaavedra@cedenocabanilla.com",
+        "agente": "CARLOS JULIO SAAVEDRA"
     },
     {
         "titulo": "VENTA DE TERRENO URB. AIRES DEL BATAN",
@@ -2250,7 +2730,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "154252",
-        "Area terreno": "596 m2"
+        "Area terreno": "596 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE UN DEPARTAMENTO DE 2 PLANTAS AV EL BOMBERO",
@@ -2264,7 +2747,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542140",
-        "Area terreno": "120 m2"
+        "Area terreno": "120 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE DEPARTAMENTO ESPECTACULAR EN LOMAS DE URDESA CON SUITES",
@@ -2278,7 +2764,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542214",
-        "Area terreno": "290 m2"
+        "Area terreno": "290 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DEPARTAMENTO PLANTA BAJA VIA SAMBORONDON",
@@ -2292,7 +2781,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542285",
-        "Area terreno": "160 m2"
+        "Area terreno": "160 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE PROPIEDAD RENTERA EN KENNEDY NORTE",
@@ -2306,7 +2798,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "NR15420002",
-        "Area terreno": "280 m2"
+        "Area terreno": "280 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "OPORTUNIDAD EDIFICIO EN EL CENTRO",
@@ -2320,7 +2815,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "EC15420009",
-        "Area terreno": "600 m2"
+        "Area terreno": "600 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE TERRENO KM 7 VIA SAMBORONDON",
@@ -2334,7 +2832,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542262",
-        "Area terreno": "576.26 m2"
+        "Area terreno": "576.26 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE VILLA DE 1 PLANTA IMPECABLE VIA SAMBORONDON",
@@ -2348,7 +2849,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542329",
-        "Area terreno": "169.60 m2"
+        "Area terreno": "169.60 m2",
+        "telefono": "-",
+        "email": "polivesfc@cedenocabanilla.com",
+        "agente": "PATRICIA OLIVES FEBRES CORDERO"
     },
     {
         "titulo": "VENTA DE VILLA ZONA TORNERO CON TERRAZA Y PISCINA",
@@ -2362,7 +2866,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542266",
-        "Area terreno": "460 m2"
+        "Area terreno": "460 m2",
+        "telefono": "-",
+        "email": "polivesfc@cedenocabanilla.com",
+        "agente": "PATRICIA OLIVES FEBRES CORDERO"
     },
     {
         "titulo": "EXCELENTE OPORTUNIDAD TERRENOS USO COMERCIAL/RESIDENCIAL",
@@ -2376,7 +2883,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "TR15420054",
-        "Area terreno": "10065 m2"
+        "Area terreno": "10065 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "OPORTUNIDAD VENTA DE TERRENO ISLA MOCOLI URB. BARLOVENTO",
@@ -2390,7 +2900,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "TR15420184",
-        "Area terreno": "722.24 m2"
+        "Area terreno": "722.24 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE VILLA PARQUES DEL RIO SAMBORONDON",
@@ -2404,7 +2917,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542359",
-        "Area terreno": "245 m2"
+        "Area terreno": "245 m2",
+        "telefono": "-",
+        "email": "polivesfc@cedenocabanilla.com",
+        "agente": "PATRICIA OLIVES FEBRES CORDERO"
     },
     {
         "titulo": "VENTA DE CASA CON DOS DEPARTAMENTOS PUNTA BARANDÚA",
@@ -2418,7 +2934,10 @@
         "ciudad": "PUNTA BLANCA",
         "provincia": "Santa Elena",
         "codigo": "CR15420166",
-        "Area terreno": "340 m2"
+        "Area terreno": "340 m2",
+        "telefono": "0993909302",
+        "email": "lmosquera@cedenocabanilla.com",
+        "agente": "LOURDES MOSQUERA VALDEZ"
     },
     {
         "titulo": "OPORTUNIDAD VILLA VIA SAMBORONDON ZONA TORNERO",
@@ -2432,7 +2951,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "CR15420030",
-        "Area terreno": "180 m2"
+        "Area terreno": "180 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE VILLA KM 1.5 VÍA SAMBORONDON URB LAS RIVERAS",
@@ -2446,7 +2968,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542303",
-        "Area terreno": "200 m2"
+        "Area terreno": "200 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "CONDOMINIO ESQUINERO RENTERO URDENOR 1 A UNA CUADRA JUAN TANCA MARENGO",
@@ -2460,7 +2985,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542114",
-        "Area terreno": "394 m2"
+        "Area terreno": "394 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE DEPARTAMENTO MODERNO VIA SAMBORONDON",
@@ -2474,7 +3002,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542387",
-        "Area terreno": "160 m2"
+        "Area terreno": "160 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE DEPARTAMENTO VIA SAMBORONDON",
@@ -2488,7 +3019,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542389",
-        "Area terreno": "184 m2"
+        "Area terreno": "184 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE VILLA EXCLUSIVA EN PORTOFINO POR ESTRENAR",
@@ -2502,7 +3036,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542275",
-        "Area terreno": "165 m2"
+        "Area terreno": "165 m2",
+        "telefono": "0997227351",
+        "email": "cjsaavedra@cedenocabanilla.com",
+        "agente": "CARLOS JULIO SAAVEDRA"
     },
     {
         "titulo": "VENTA DE VILLA CON SUITE DE OPORTUNIDAD EN URBANIZACION CAMINO DEL RIO",
@@ -2516,7 +3053,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542161",
-        "Area terreno": "225 m2"
+        "Area terreno": "225 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DEPARTAMENTO AL RIO LA PUNTILLA",
@@ -2530,7 +3070,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542236",
-        "Area terreno": "180 m2"
+        "Area terreno": "180 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "OPORTUNIDAD TERRENO EN LA AVENIDA FRANCISCO DE ORELLANA",
@@ -2544,7 +3087,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "TR15420070",
-        "Area terreno": "533 m2"
+        "Area terreno": "533 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "DEPARTAMENTO AMPLIO OLIVOS 2",
@@ -2558,7 +3104,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "154248",
-        "Area terreno": "219 m2"
+        "Area terreno": "219 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE VILLA EN PORTOFINO POR ESTRENAR",
@@ -2572,7 +3121,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542274",
-        "Area terreno": "199.20 m2"
+        "Area terreno": "199.20 m2",
+        "telefono": "0997227351",
+        "email": "cjsaavedra@cedenocabanilla.com",
+        "agente": "CARLOS JULIO SAAVEDRA"
     },
     {
         "titulo": "VENTA DE VILLA EN URB. PARQUES DEL RIO CERCA DE TODO",
@@ -2586,7 +3138,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542311",
-        "Area terreno": "245 m2"
+        "Area terreno": "245 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "PRECIOSA FINCA VACACIONAL EN BUCAY",
@@ -2600,7 +3155,10 @@
         "ciudad": "Naranjito",
         "provincia": "Guayas",
         "codigo": "VR15420001",
-        "Area terreno": "180 m2"
+        "Area terreno": "180 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE TERRENOS INDUSTRIALES VIA DAULE",
@@ -2614,7 +3172,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "154253",
-        "Area terreno": "4000 m2"
+        "Area terreno": "4000 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE DEPARTAMENTO PH VIA SAMBORONDON",
@@ -2628,7 +3189,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "DR15420073",
-        "Area terreno": "130 m2"
+        "Area terreno": "130 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE EDIFICIO EN EL CENTRO",
@@ -2642,7 +3206,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "220GQH",
-        "Area terreno": "290 m2"
+        "Area terreno": "290 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "LOCAL COMERCIAL EN URDESA VICTOR EMILIO ESTRADA",
@@ -2656,7 +3223,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "LC15420017",
-        "Area terreno": "226 m2"
+        "Area terreno": "226 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE EXLUSIVO TERRENO AL LAGO Y AREA VERDE EN L'ISOLA ISLA MOCOLI",
@@ -2670,7 +3240,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542264",
-        "Area terreno": "688 m2"
+        "Area terreno": "688 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VILLA MODERNA  KM 10 VIA SAMBORONDÓN  URB ESTANCIAS DEL RIO",
@@ -2684,7 +3257,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542191",
-        "Area terreno": "210.86 m2"
+        "Area terreno": "210.86 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA  OPORTUNIDAD BOSQUES DE LA COSTA",
@@ -2698,7 +3274,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "CR15420160",
-        "Area terreno": "176 m2"
+        "Area terreno": "176 m2",
+        "telefono": "0997227351",
+        "email": "cjsaavedra@cedenocabanilla.com",
+        "agente": "CARLOS JULIO SAAVEDRA"
     },
     {
         "titulo": "VENTA DE VILLA PORTOFINO POR ESTRENAR",
@@ -2712,7 +3291,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542273",
-        "Area terreno": "180 m2"
+        "Area terreno": "180 m2",
+        "telefono": "0997227351",
+        "email": "cjsaavedra@cedenocabanilla.com",
+        "agente": "CARLOS JULIO SAAVEDRA"
     },
     {
         "titulo": "VENTA DE LOCAL ESQUINERO AVENIDA BOYACA",
@@ -2726,7 +3308,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542310",
-        "Area terreno": "265.06 m2"
+        "Area terreno": "265.06 m2",
+        "telefono": "0997227351",
+        "email": "cjsaavedra@cedenocabanilla.com",
+        "agente": "CARLOS JULIO SAAVEDRA"
     },
     {
         "titulo": "TERRENO MULTIFAMILIAR URBANIZACION SANTA CECILIA",
@@ -2740,7 +3325,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "154239",
-        "Area terreno": "1133 m2"
+        "Area terreno": "1133 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "ESPECTACULAR DEPARTAMENTO VIA A LA COSTA",
@@ -2754,7 +3342,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "DR15420040",
-        "Area terreno": "181 m2"
+        "Area terreno": "181 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "TERRENO EN VENTA LAS CUMBRES",
@@ -2768,7 +3359,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "23LQPL",
-        "Area terreno": "799 m2"
+        "Area terreno": "799 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE CASA CON DEPARTAMENTO EN BARRIO CENTENARIO",
@@ -2782,7 +3376,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542376",
-        "Area terreno": "755 m2"
+        "Area terreno": "755 m2",
+        "telefono": "-",
+        "email": "polivesfc@cedenocabanilla.com",
+        "agente": "PATRICIA OLIVES FEBRES CORDERO"
     },
     {
         "titulo": "VENTA DE CASA EN KM.3,5 VIA SAMBORONDON",
@@ -2796,7 +3393,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542346",
-        "Area terreno": "280 m2"
+        "Area terreno": "280 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE VILLA ESQUINERA EN PUERTO AZUL",
@@ -2810,7 +3410,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542290",
-        "Area terreno": "375 m2"
+        "Area terreno": "375 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE TERRENO URB EL CORTIJO MEDIANERO",
@@ -2824,7 +3427,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542317",
-        "Area terreno": "2480 m2"
+        "Area terreno": "2480 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE DEPARTAMENTO URB BLUE BAY VISTA AL RIO ISLA MOCOLI",
@@ -2838,7 +3444,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "154264",
-        "Area terreno": "163 m2"
+        "Area terreno": "163 m2",
+        "telefono": "-",
+        "email": "polivesfc@cedenocabanilla.com",
+        "agente": "PATRICIA OLIVES FEBRES CORDERO"
     },
     {
         "titulo": "VENTA DE AMPLIO DEPARTAMENTO DE ESTRENO PLANTA BAJA LA PUNTILLA",
@@ -2852,7 +3461,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542235",
-        "Area terreno": "255 m2"
+        "Area terreno": "255 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "TERRENO EN VENTA VÍA DURÁN YAGUACHI, SECTOR FERIA GANADERA",
@@ -2866,7 +3478,10 @@
         "ciudad": "Durán",
         "provincia": "Guayas",
         "codigo": "50147233",
-        "Area terreno": "5060 m2"
+        "Area terreno": "5060 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE DEPARTAMENTO PLANTA BAJA ISLA MOCOLI",
@@ -2880,7 +3495,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542233",
-        "Area terreno": "176 m2"
+        "Area terreno": "176 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE TERRENO ESQUINERO EN URBANIZACIÓN GUAYAQUIL TENIS",
@@ -2894,7 +3512,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "154246",
-        "Area terreno": "827.62 m2"
+        "Area terreno": "827.62 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "TERRENO VIA DATA - POSORJA - ESPECTACULAR",
@@ -2908,7 +3529,10 @@
         "ciudad": "Playas",
         "provincia": "Guayas",
         "codigo": "TR15420169",
-        "Area terreno": "5248.47 m2"
+        "Area terreno": "5248.47 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE VILLA URBANIZACION LA PUNTILLA",
@@ -2922,7 +3546,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542332",
-        "Area terreno": "321 m2"
+        "Area terreno": "321 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VIA DURAN - YAGUACHI, SECTOR FERIA GANADERA, RELLENADO Y COMPACTADO",
@@ -2936,7 +3563,10 @@
         "ciudad": "Durán",
         "provincia": "Guayas",
         "codigo": "50147273",
-        "Area terreno": "4800 m2"
+        "Area terreno": "4800 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "LOCAL COMERCIAL IDEAL PARA FARMACIAS",
@@ -2950,7 +3580,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542180",
-        "Area terreno": "174.02 m2"
+        "Area terreno": "174.02 m2",
+        "telefono": "0997227351",
+        "email": "cjsaavedra@cedenocabanilla.com",
+        "agente": "CARLOS JULIO SAAVEDRA"
     },
     {
         "titulo": "VENTA DE VILLA SEMI REMODELADA EN URBANIZACION LA PUNTILLA",
@@ -2964,7 +3597,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542195",
-        "Area terreno": "400 m2"
+        "Area terreno": "400 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE CASA CON TERRENO  BIFAMILIAR RIO GUAYAS CLUB",
@@ -2978,7 +3614,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542228",
-        "Area terreno": "250 m2"
+        "Area terreno": "250 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "DEPARTAMENTO EN VENTA PLANTA BAJA VISTA AL RIO",
@@ -2992,7 +3631,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542198",
-        "Area terreno": "218 m2"
+        "Area terreno": "218 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "OFICINA EN EL CENTRO DE GUAYAQUIL",
@@ -3006,7 +3648,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "OC15420028",
-        "Area terreno": "996.92 m2"
+        "Area terreno": "996.92 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VILLA URBANIZACIÓN TERRASOL",
@@ -3020,7 +3665,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "154240",
-        "Area terreno": "319 m2"
+        "Area terreno": "319 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE TERRENO EN URBANIZACIÓN BIBLOS",
@@ -3034,7 +3682,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542108",
-        "Area terreno": "1734 m2"
+        "Area terreno": "1734 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "HERMOSO EDIFICIO AV. CARLOS JULIO AROSEMENA",
@@ -3048,7 +3699,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "EC15420013",
-        "Area terreno": "483 m2"
+        "Area terreno": "483 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "BODEGA CON GALPON VIA DAULE",
@@ -3062,7 +3716,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "BI15420029",
-        "Area terreno": "1018 m2"
+        "Area terreno": "1018 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "URBANIZACIÓN LA PUNTILLA VENTA DEPARTAMENTO PLANTA BAJA",
@@ -3076,7 +3733,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "23LAL7",
-        "Area terreno": "187 m2"
+        "Area terreno": "187 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE VILLA KM 7  VIA SAMBORONDÓN",
@@ -3090,7 +3750,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542125",
-        "Area terreno": "231 m2"
+        "Area terreno": "231 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE VILLA URBANIZACIÓN LA PUNTILLA",
@@ -3104,7 +3767,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542353",
-        "Area terreno": "330 m2"
+        "Area terreno": "330 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "IDEAL PROPIEDAD COMERCIAL SOBRE LA AV BENJAMIN ROSALES",
@@ -3118,7 +3784,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542131",
-        "Area terreno": "680 m2"
+        "Area terreno": "680 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE AMPLIA VILLA CON PISCINA EN URB. PUERTO AZUL",
@@ -3132,7 +3801,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "CR15420174",
-        "Area terreno": "356 m2"
+        "Area terreno": "356 m2",
+        "telefono": "0997227351",
+        "email": "cjsaavedra@cedenocabanilla.com",
+        "agente": "CARLOS JULIO SAAVEDRA"
     },
     {
         "titulo": "VENTA DE BODEGA IDEAL PARA CAMARAS DE FRIO EN MAPASINGUE",
@@ -3146,7 +3818,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542287",
-        "Area terreno": "800 m2"
+        "Area terreno": "800 m2",
+        "telefono": "0997227351",
+        "email": "cjsaavedra@cedenocabanilla.com",
+        "agente": "CARLOS JULIO SAAVEDRA"
     },
     {
         "titulo": "TERRENO MULTIFAMILIAR ISLA MOCOLI",
@@ -3160,7 +3835,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "TR15420092",
-        "Area terreno": "1230 m2"
+        "Area terreno": "1230 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA VILLA PORTOFINO CUATRO DORMITORIOS CON PATIO AMPLIO",
@@ -3174,7 +3852,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542276",
-        "Area terreno": "250 m2"
+        "Area terreno": "250 m2",
+        "telefono": "0997227351",
+        "email": "cjsaavedra@cedenocabanilla.com",
+        "agente": "CARLOS JULIO SAAVEDRA"
     },
     {
         "titulo": "DEPARTAMENTO EN TORRES HILTON COLON 3 DORMITORIOS",
@@ -3188,7 +3869,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "DR15420093",
-        "Area terreno": "240 m2"
+        "Area terreno": "240 m2",
+        "telefono": "0997227351",
+        "email": "cjsaavedra@cedenocabanilla.com",
+        "agente": "CARLOS JULIO SAAVEDRA"
     },
     {
         "titulo": "VENTA DE VILLA AL LAGO VIA SAMBORONDON",
@@ -3202,7 +3886,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542260",
-        "Area terreno": "375 m2"
+        "Area terreno": "375 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VILLA EN VENTA OLIVOS I",
@@ -3216,7 +3903,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542373",
-        "Area terreno": "450 m2"
+        "Area terreno": "450 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "LUJOSO DEPARTAMENTO KENNEDY NORTE",
@@ -3230,7 +3920,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "DR15420163",
-        "Area terreno": "205 m2"
+        "Area terreno": "205 m2",
+        "telefono": "0997227351",
+        "email": "cjsaavedra@cedenocabanilla.com",
+        "agente": "CARLOS JULIO SAAVEDRA"
     },
     {
         "titulo": "SE VENDE TERRENO EN URB. MOCOLÍ GOLF CLUB",
@@ -3244,7 +3937,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542314",
-        "Area terreno": "1001 m2"
+        "Area terreno": "1001 m2",
+        "telefono": "0997227351",
+        "email": "cjsaavedra@cedenocabanilla.com",
+        "agente": "CARLOS JULIO SAAVEDRA"
     },
     {
         "titulo": "VENTA DE TERRENO MULTIFAMILIAR EN ISLA MOCOLI URB. MONACO",
@@ -3258,7 +3954,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542208",
-        "Area terreno": "2887.96 m2"
+        "Area terreno": "2887.96 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE VILLA EN PORTOFINO",
@@ -3272,7 +3971,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542371",
-        "Area terreno": "395 m2"
+        "Area terreno": "395 m2",
+        "telefono": "0997227351",
+        "email": "cjsaavedra@cedenocabanilla.com",
+        "agente": "CARLOS JULIO SAAVEDRA"
     },
     {
         "titulo": "VENTA DE LOCAL COMERCIAL EN LA AV. MALECON",
@@ -3286,7 +3988,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542390",
-        "Area terreno": "360 m2"
+        "Area terreno": "360 m2",
+        "telefono": "0997227351",
+        "email": "cjsaavedra@cedenocabanilla.com",
+        "agente": "CARLOS JULIO SAAVEDRA"
     },
     {
         "titulo": "VENTA DE CONDOMINIO URDESA CENTRAL EXCELENTE OPORTUNIDAD",
@@ -3300,7 +4005,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "NR15420003",
-        "Area terreno": "900 m2"
+        "Area terreno": "900 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE TERRENO CEIBOS URBANIZACION CERRADA",
@@ -3314,7 +4022,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542374",
-        "Area terreno": "1032 m2"
+        "Area terreno": "1032 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "DE OPORTUNIDAD DEPARTAMENTO EN SALINAS",
@@ -3328,7 +4039,10 @@
         "ciudad": "SALINAS",
         "provincia": "Santa Elena",
         "codigo": "DR15420048",
-        "Area terreno": "250 m2"
+        "Area terreno": "250 m2",
+        "telefono": "0993909302",
+        "email": "lmosquera@cedenocabanilla.com",
+        "agente": "LOURDES MOSQUERA VALDEZ"
     },
     {
         "titulo": "VENTA DEPARTAMENTO PLANTA BAJA VIA SAMBORONDON",
@@ -3342,7 +4056,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542212",
-        "Area terreno": "224 m2"
+        "Area terreno": "224 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE TERRENO EN LA URBANIZACIÓN CASA DEL SOL",
@@ -3356,7 +4073,10 @@
         "ciudad": "RUTA DEL SOL",
         "provincia": "Santa Elena",
         "codigo": "154263",
-        "Area terreno": "1050 m2"
+        "Area terreno": "1050 m2",
+        "telefono": "0993909302",
+        "email": "lmosquera@cedenocabanilla.com",
+        "agente": "LOURDES MOSQUERA VALDEZ"
     },
     {
         "titulo": "VENTA DE VILLA AMPLIA DE 5 DORMITORIOS URBANIZACION  LOS PARQUES",
@@ -3370,7 +4090,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542192",
-        "Area terreno": "610 m2"
+        "Area terreno": "610 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE TERRENO SOBRE LA AV FCO DE ORELLANA",
@@ -3384,7 +4107,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542336",
-        "Area terreno": "1000 m2"
+        "Area terreno": "1000 m2",
+        "telefono": "0997227351",
+        "email": "cjsaavedra@cedenocabanilla.com",
+        "agente": "CARLOS JULIO SAAVEDRA"
     },
     {
         "titulo": "VILLA URBANIZACION LA PUNTILLA",
@@ -3398,7 +4124,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "CR15420159",
-        "Area terreno": "400 m2"
+        "Area terreno": "400 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "SE VENDE ÚNICO DEPARTAMENTO EN SANTANA LOFT CON TERRAZA PANORÁMICA",
@@ -3412,7 +4141,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542318",
-        "Area terreno": "139.28 m2"
+        "Area terreno": "139.28 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE TERRENO SOBRE LA AV FCO DE ORELLANA",
@@ -3426,7 +4158,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542336",
-        "Area terreno": "1000 m2"
+        "Area terreno": "1000 m2",
+        "telefono": "0997227351",
+        "email": "cjsaavedra@cedenocabanilla.com",
+        "agente": "CARLOS JULIO SAAVEDRA"
     },
     {
         "titulo": "BODEGA MAPASINGUE ESTE",
@@ -3440,7 +4175,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "BI15420027",
-        "Area terreno": "962.71 m2"
+        "Area terreno": "962.71 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "TERRENO VIA A LA COSTA INGRESO A CASAS VIEJAS",
@@ -3454,7 +4192,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "507533",
-        "Area terreno": "30000 m2"
+        "Area terreno": "30000 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "EXCELENTE UBICACION TERRENO VIA DAULE",
@@ -3468,7 +4209,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "TR15420060",
-        "Area terreno": "30000 m2"
+        "Area terreno": "30000 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE VILLA DE OPORTUNIDAD CON VISTA PANORAMICA A GUAYAQUIL",
@@ -3482,7 +4226,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "22F58J",
-        "Area terreno": "983 m2"
+        "Area terreno": "983 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE AMPLIA VILLA EN URBANIZACION LA PUNTILLA",
@@ -3496,7 +4243,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542166",
-        "Area terreno": "560 m2"
+        "Area terreno": "560 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "HERMOSA VILLA ISLA MOCOLI",
@@ -3510,7 +4260,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "CR15420136",
-        "Area terreno": "190 m2"
+        "Area terreno": "190 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE UNICO TERRENO EN URBANIZACION LAGUNA DORADA AL LAGO",
@@ -3524,7 +4277,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542177",
-        "Area terreno": "950 m2"
+        "Area terreno": "950 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "BIFAMILIAR AL RIO TERRENO, URB ARRECIFE ISLA MOCOLI",
@@ -3538,7 +4294,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542117",
-        "Area terreno": "1282.06 m2"
+        "Area terreno": "1282.06 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE VILLA 4 DORMITORIOS URBANIZACION VISTA SOL",
@@ -3552,7 +4311,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542289",
-        "Area terreno": "400 m2"
+        "Area terreno": "400 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "SE VENDE EDIFICIO ESQUINERO BARRIO ORELLANA",
@@ -3566,7 +4328,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542225",
-        "Area terreno": "1228 m2"
+        "Area terreno": "1228 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENDO CASA EN CHUYUIPE FRENTE AL MAR",
@@ -3580,7 +4345,10 @@
         "ciudad": "BALLENITA",
         "provincia": "Santa Elena",
         "codigo": "1542358",
-        "Area terreno": "200 m2"
+        "Area terreno": "200 m2",
+        "telefono": "0993909302",
+        "email": "lmosquera@cedenocabanilla.com",
+        "agente": "LOURDES MOSQUERA VALDEZ"
     },
     {
         "titulo": "VENTA DE TERRENO URBANIZACION CASA LAGO VISTA AL LAGO",
@@ -3594,7 +4362,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542372",
-        "Area terreno": "1050 m2"
+        "Area terreno": "1050 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "TERRENO MULTIFAMILIAR CON PROYECTO EN LOMAS DE URDESA",
@@ -3608,7 +4379,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "154303",
-        "Area terreno": "2210 m2"
+        "Area terreno": "2210 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE TERENO VIA SALITRE SOBRE LA VÍA",
@@ -3622,7 +4396,10 @@
         "ciudad": "Daule",
         "provincia": "Guayas",
         "codigo": "1542382",
-        "Area terreno": "28300 m2"
+        "Area terreno": "28300 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA VILLA GRANDE CON PISCINA Y CANCHA DE TENIS EN PUERTO AZUL",
@@ -3636,7 +4413,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542126",
-        "Area terreno": "404 m2"
+        "Area terreno": "404 m2",
+        "telefono": "0997227351",
+        "email": "cjsaavedra@cedenocabanilla.com",
+        "agente": "CARLOS JULIO SAAVEDRA"
     },
     {
         "titulo": "PROYECTO DE VILLA MINIMALISTA ISLA MOCOLI VISTA AL LAGO",
@@ -3650,7 +4430,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542299",
-        "Area terreno": "350 m2"
+        "Area terreno": "350 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE VILLA KM 3.5 VIA SAMBORONDON",
@@ -3664,7 +4447,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542261",
-        "Area terreno": "390 m2"
+        "Area terreno": "390 m2",
+        "telefono": "-",
+        "email": "polivesfc@cedenocabanilla.com",
+        "agente": "PATRICIA OLIVES FEBRES CORDERO"
     },
     {
         "titulo": "EXCLUSIVO DEPARTAMENTO CIUDAD DEL SOL",
@@ -3678,7 +4464,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "154238",
-        "Area terreno": "320 m2"
+        "Area terreno": "320 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "SE VENDE VILLA A TRES CALLES EN KENNEDY NORTE",
@@ -3692,7 +4481,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542248",
-        "Area terreno": "982.60 m2"
+        "Area terreno": "982.60 m2",
+        "telefono": "0997227351",
+        "email": "cjsaavedra@cedenocabanilla.com",
+        "agente": "CARLOS JULIO SAAVEDRA"
     },
     {
         "titulo": "VENTA DE TERRENO COMERCIAL EN AV. FRANCISCO BOLOÑA AL ESTERO",
@@ -3706,7 +4498,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542292",
-        "Area terreno": "870 m2"
+        "Area terreno": "870 m2",
+        "telefono": "-",
+        "email": "polivesfc@cedenocabanilla.com",
+        "agente": "PATRICIA OLIVES FEBRES CORDERO"
     },
     {
         "titulo": "VENTA DE 20 OFICINAS RENTERAS EN EL CENTRO DE GUAYAQUIL",
@@ -3720,7 +4515,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542391",
-        "Area terreno": "702.29 m2"
+        "Area terreno": "702.29 m2",
+        "telefono": "0997227351",
+        "email": "cjsaavedra@cedenocabanilla.com",
+        "agente": "CARLOS JULIO SAAVEDRA"
     },
     {
         "titulo": "OPORTUNIDAD TERRENO INDUSTRIAL VIA DURAN TAMBO",
@@ -3734,7 +4532,10 @@
         "ciudad": "Durán",
         "provincia": "Guayas",
         "codigo": "22I1MB",
-        "Area terreno": "17500 m2"
+        "Area terreno": "17500 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE TERRENO MULTIFAMILIAR VIA SAMBORONDON",
@@ -3748,7 +4549,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "154282",
-        "Area terreno": "434 m2"
+        "Area terreno": "434 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "SE VENDE PRECIOSA VILLA EN PORTOFINO",
@@ -3762,7 +4566,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542367",
-        "Area terreno": "304.76 m2"
+        "Area terreno": "304.76 m2",
+        "telefono": "0997227351",
+        "email": "cjsaavedra@cedenocabanilla.com",
+        "agente": "CARLOS JULIO SAAVEDRA"
     },
     {
         "titulo": "VENTA DE TERRENO MULTIFAMILIAR VIA SAMBORONDON",
@@ -3776,7 +4583,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542271",
-        "Area terreno": "38.14 m2"
+        "Area terreno": "38.14 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "OPORTUNIDAD TERRENO EN KM 36 VIA A LA COSTA",
@@ -3790,7 +4600,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1055614",
-        "Area terreno": "308000 m2"
+        "Area terreno": "308000 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "OPORTUNIDAD TERRENO KM 36 VÍA A LA COSTA",
@@ -3804,7 +4617,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1055601",
-        "Area terreno": "301000 m2"
+        "Area terreno": "301000 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "OPORTUNIDAD CASA LAGUNA DEL SOL VIA SAMBORONDON  EXCELENTE URBANIZACIÓN",
@@ -3818,7 +4634,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "CR15420164",
-        "Area terreno": "370 m2"
+        "Area terreno": "370 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE VILLA IMPECABLE VIA SAMBORONDON",
@@ -3832,7 +4651,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542331",
-        "Area terreno": "400 m2"
+        "Area terreno": "400 m2",
+        "telefono": "-",
+        "email": "polivesfc@cedenocabanilla.com",
+        "agente": "PATRICIA OLIVES FEBRES CORDERO"
     },
     {
         "titulo": "PROYECTO DE VILLA EN ISLA MOCOLI AL CANAL",
@@ -3846,7 +4668,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542113",
-        "Area terreno": "570 m2"
+        "Area terreno": "570 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE TERRENO COMERCIAL FRENTE A CENTRO COMERCIAL EL DORADO",
@@ -3860,7 +4685,10 @@
         "ciudad": "Daule",
         "provincia": "Guayas",
         "codigo": "221ATS",
-        "Area terreno": "3362 m2"
+        "Area terreno": "3362 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "AMPLIO DEPARTAMENTO EN ENTRERIOS",
@@ -3874,7 +4702,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "DR15420152",
-        "Area terreno": "490 m2"
+        "Area terreno": "490 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE TERRENO AMPLIO CON BODEGA EN DURAN",
@@ -3888,7 +4719,10 @@
         "ciudad": "Durán",
         "provincia": "Guayas",
         "codigo": "1542199",
-        "Area terreno": "1200 m2"
+        "Area terreno": "1200 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "TERRENO EN VENTA AL RIO MOCOLI",
@@ -3902,7 +4736,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542215",
-        "Area terreno": "1950 m2"
+        "Area terreno": "1950 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "OPORTUNIDAD TERRENO EN CHONGON- DAULAR",
@@ -3916,7 +4753,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "TR15420081 ",
-        "Area terreno": "13800 m2"
+        "Area terreno": "13800 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "TERRENO COMERCIAL VIA A LA COSTA",
@@ -3930,7 +4770,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542224",
-        "Area terreno": "13350 m2"
+        "Area terreno": "13350 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "HOTEL BOUTIQUE VIA SAMBORONDON",
@@ -3944,7 +4787,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542213",
-        "Area terreno": "420 m2"
+        "Area terreno": "420 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE ESPECTACULAR CASA AL LAGO VIA SAMBORONDON PRIMEROS KMS",
@@ -3958,7 +4804,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542379",
-        "Area terreno": "1100 m2"
+        "Area terreno": "1100 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE VILLA ESPECTACULAR LOMAS DE URDESA",
@@ -3972,7 +4821,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542293",
-        "Area terreno": "850 m2"
+        "Area terreno": "850 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VISTA PANORÁMICA AL RÍO",
@@ -3986,7 +4838,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "DR15420071",
-        "Area terreno": "381 m2"
+        "Area terreno": "381 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "EXCELENTE OPORTUNIDAD COMPLEJO DE SUITES EN LOS  CEIBOS",
@@ -4000,7 +4855,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "EC15420012",
-        "Area terreno": "1823 m2"
+        "Area terreno": "1823 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "OPORTUNIDAD... TERRENO RELLENADO USO INDUSTRIAL KM 11 VIA DURAN TAMBO",
@@ -4014,7 +4872,10 @@
         "ciudad": "Durán",
         "provincia": "Guayas",
         "codigo": "1542107",
-        "Area terreno": "65000 m2"
+        "Area terreno": "65000 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VILLA ESPECTACULAR EN ISLA MOCOLI AMOBLADA, SUITE",
@@ -4028,7 +4889,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542128",
-        "Area terreno": "575 m2"
+        "Area terreno": "575 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA EDIFICIO 4 PLANTAS KENNEDY NORTE",
@@ -4042,7 +4906,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "EC15420020",
-        "Area terreno": "934.55 m2"
+        "Area terreno": "934.55 m2",
+        "telefono": "0997227351",
+        "email": "cjsaavedra@cedenocabanilla.com",
+        "agente": "CARLOS JULIO SAAVEDRA"
     },
     {
         "titulo": "VENTA DE VILLA VÍA SAMBORONDON KM 6",
@@ -4056,7 +4923,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542304",
-        "Area terreno": "750 m2"
+        "Area terreno": "750 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE TERRENO VIA A LA COSTA",
@@ -4070,7 +4940,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542335",
-        "Area terreno": "32500 m2"
+        "Area terreno": "32500 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE PROPIEDAD ESPECTACULAR EN  LOMAS DE URDESA",
@@ -4084,7 +4957,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "229T9H",
-        "Area terreno": "2359 m2"
+        "Area terreno": "2359 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE AMPLIA VILLA VIA SAMBORONDON",
@@ -4098,7 +4974,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542386",
-        "Area terreno": "700 m2"
+        "Area terreno": "700 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE TERRENO ZONA INMACONSA DE OPORTUNIDAD",
@@ -4112,7 +4991,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542239",
-        "Area terreno": "9355 m2"
+        "Area terreno": "9355 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE ESPECTACULAR VILLA AL LAGO VIA SAMBORONDON",
@@ -4126,7 +5008,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542344",
-        "Area terreno": "4"
+        "Area terreno": "4",
+        "telefono": "-",
+        "email": "polivesfc@cedenocabanilla.com",
+        "agente": "PATRICIA OLIVES FEBRES CORDERO"
     },
     {
         "titulo": "TERRENO VISTA AL MAR Y FRENTE AL CARRETERO",
@@ -4140,7 +5025,10 @@
         "ciudad": "RUTA DEL SOL",
         "provincia": "Santa Elena",
         "codigo": "TR15420178",
-        "Area terreno": "10000 m2"
+        "Area terreno": "10000 m2",
+        "telefono": "0993909302",
+        "email": "lmosquera@cedenocabanilla.com",
+        "agente": "LOURDES MOSQUERA VALDEZ"
     },
     {
         "titulo": "VENTA DE TERRENO COMERCIAL DURAN BOLICHE",
@@ -4154,7 +5042,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "23K2OK",
-        "Area terreno": "3700 m2"
+        "Area terreno": "3700 m2",
+        "telefono": "0997227351",
+        "email": "cjsaavedra@cedenocabanilla.com",
+        "agente": "CARLOS JULIO SAAVEDRA"
     },
     {
         "titulo": "VENTA DE TERRENO VIA A LA COSTA.",
@@ -4168,7 +5059,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1039847",
-        "Area terreno": "458800 m2"
+        "Area terreno": "458800 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "HERMOSA VILLA -VIA A LA COSTA",
@@ -4182,7 +5076,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "227H9H",
-        "Area terreno": "350 m2"
+        "Area terreno": "350 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE TERRENO KM 9 VIA DURAN TAMBO",
@@ -4196,7 +5093,10 @@
         "ciudad": "Durán",
         "provincia": "Guayas",
         "codigo": "1542333",
-        "Area terreno": "50000 m2"
+        "Area terreno": "50000 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "OPORTUNIDAD LOTE INDUSTRIAL  VIA DURAN TAMBO",
@@ -4210,7 +5110,10 @@
         "ciudad": "Durán",
         "provincia": "Guayas",
         "codigo": "22HO0S",
-        "Area terreno": "44500 m2"
+        "Area terreno": "44500 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE HACIENDA EN BALZAR FRENTE DE 2 KMS AL RIO DAULE",
@@ -4224,7 +5127,10 @@
         "ciudad": "Balzar",
         "provincia": "Guayas",
         "codigo": "1542162",
-        "Area terreno": "415 ha"
+        "Area terreno": "415 ha",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "TERRENO PARA DESARROLLO INMOBILIARIO EN LA RUTA DEL SPONDYLUS",
@@ -4238,7 +5144,10 @@
         "ciudad": "RUTA DEL SOL",
         "provincia": "Santa Elena",
         "codigo": "TR15420162",
-        "Area terreno": "12880 m2"
+        "Area terreno": "12880 m2",
+        "telefono": "0993909302",
+        "email": "lmosquera@cedenocabanilla.com",
+        "agente": "LOURDES MOSQUERA VALDEZ"
     },
     {
         "titulo": "INVIERTA EN TERRENO CERCA DE GUAYAQUIL",
@@ -4252,7 +5161,10 @@
         "ciudad": "Nobol",
         "provincia": "Guayas",
         "codigo": "154249",
-        "Area terreno": "342 ha"
+        "Area terreno": "342 ha",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE EDIFICIO ESQUINERO EN LA ZONA DE MALECON 2000",
@@ -4266,7 +5178,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542392",
-        "Area terreno": "1062 m2"
+        "Area terreno": "1062 m2",
+        "telefono": "0997227351",
+        "email": "cjsaavedra@cedenocabanilla.com",
+        "agente": "CARLOS JULIO SAAVEDRA"
     },
     {
         "titulo": "OPORTUNIDAD TERRENO ZONA VIA EL MORRO-POSORJA MAS DE 1.000 MTS FRENTE",
@@ -4280,7 +5195,10 @@
         "ciudad": "Playas",
         "provincia": "Guayas",
         "codigo": "1542105",
-        "Area terreno": "254.64 ha"
+        "Area terreno": "254.64 ha",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA BODEGA VIA DURAN TAMBO",
@@ -4294,7 +5212,10 @@
         "ciudad": "Durán",
         "provincia": "Guayas",
         "codigo": "BI15420013",
-        "Area terreno": "3700 m2"
+        "Area terreno": "3700 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "EDIFICIO CERCA A LA BAHIA ZONA COMERCIAL",
@@ -4308,7 +5229,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "154299",
-        "Area terreno": "3390 m2"
+        "Area terreno": "3390 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "TERRENO MULTIFAMILIAR ISLA MOCOLI",
@@ -4322,7 +5246,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "154241",
-        "Area terreno": "2290 m2"
+        "Area terreno": "2290 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE TERRENO FRENTE AL MAR",
@@ -4336,7 +5263,10 @@
         "ciudad": "SANTA ELENA",
         "provincia": "Santa Elena",
         "codigo": "1542122",
-        "Area terreno": "8473.06 m2"
+        "Area terreno": "8473.06 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE PROPIEDAD COMERCIAL AV BENJAMIN ROSALES",
@@ -4350,7 +5280,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "154298",
-        "Area terreno": "1250 m2"
+        "Area terreno": "1250 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "AMPLIO LOCAL COMERCIAL EN AV. CARLOS JULIO AROSEMENA",
@@ -4364,7 +5297,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542124",
-        "Area terreno": "2621.97 m2"
+        "Area terreno": "2621.97 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "TERRENO AL INGRESO DE PLAYAS",
@@ -4378,7 +5314,10 @@
         "ciudad": "Playas",
         "provincia": "Guayas",
         "codigo": "1542106",
-        "Area terreno": "380000 m2"
+        "Area terreno": "380000 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA COMPLEJO DE GALPONES Y OFICINAS VÍA A DAULE",
@@ -4392,7 +5331,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542110",
-        "Area terreno": "3972 m2"
+        "Area terreno": "3972 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE TERRENO RELLENADO ESQUINERO INMACONSA",
@@ -4406,7 +5348,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542238",
-        "Area terreno": "14860 m2"
+        "Area terreno": "14860 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "OPORTUNIDAD TERRENO COMERCIAL -AV. CARLOS JULIO AROSEMENA",
@@ -4420,7 +5365,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "TR15420068",
-        "Area terreno": "2081.21 m2"
+        "Area terreno": "2081.21 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "OPORTUNIDAD EDIFICIO EN EL CENTRO",
@@ -4434,7 +5382,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "EC15420007",
-        "Area terreno": "3484 m2"
+        "Area terreno": "3484 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE TERRENO AL RIO VÍA SAMBORONDON",
@@ -4448,7 +5399,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542301",
-        "Area terreno": "3800 m2"
+        "Area terreno": "3800 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE BODEGA INDUSTRIAL VIA DURAN TAMBO",
@@ -4462,7 +5416,10 @@
         "ciudad": "Durán",
         "provincia": "Guayas",
         "codigo": "1542384",
-        "Area terreno": "4435 m2"
+        "Area terreno": "4435 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE TERRENO ESQUINERO CON GALPONES ZONA INDUSTRIAL",
@@ -4476,7 +5433,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542241",
-        "Area terreno": "1660 m2"
+        "Area terreno": "1660 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "HERMOSA HOSTERIA CERCA DE ALAUSI",
@@ -4490,7 +5450,10 @@
         "ciudad": "ALAUSÍ",
         "provincia": "Chimborazo",
         "codigo": "EC15420019",
-        "Area terreno": "2988.48 m2"
+        "Area terreno": "2988.48 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE EXCLUSIVA CASA EXCELENTE UBICACION",
@@ -4504,7 +5467,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "23L8E8",
-        "Area terreno": "702 m2"
+        "Area terreno": "702 m2",
+        "telefono": "0997227351",
+        "email": "cjsaavedra@cedenocabanilla.com",
+        "agente": "CARLOS JULIO SAAVEDRA"
     },
     {
         "titulo": "EDIFICIO EN CENTRO BANCARIO DE GUAYAQUIL OPORTUNIDAD",
@@ -4518,7 +5484,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542120",
-        "Area terreno": "5775 m2"
+        "Area terreno": "5775 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "TERRENO AL MAR EN LA  VIA DATA - POSORJA",
@@ -4532,7 +5501,10 @@
         "ciudad": "Playas",
         "provincia": "Guayas",
         "codigo": "TR15420170",
-        "Area terreno": "47460 m2"
+        "Area terreno": "47460 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE TERRENO VISTA AL MAR EN CANOA",
@@ -4546,7 +5518,10 @@
         "ciudad": "SAN VICENTE",
         "provincia": "Manabí",
         "codigo": "1542322",
-        "Area terreno": "12.50 ha"
+        "Area terreno": "12.50 ha",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE MACROLOTE SOBRE LA VIA A SALITRE",
@@ -4560,7 +5535,10 @@
         "ciudad": "Daule",
         "provincia": "Guayas",
         "codigo": "1542321",
-        "Area terreno": "52350 m2"
+        "Area terreno": "52350 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "TERRENO RELLENADO INMACONSA",
@@ -4574,7 +5552,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542227",
-        "Area terreno": "24213 m2"
+        "Area terreno": "24213 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA  DE COMPLEJO DE BODEGAS VIA DAULE",
@@ -4588,7 +5569,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542240",
-        "Area terreno": "9090 m2"
+        "Area terreno": "9090 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE MACROLOTE VÍA A LA COSTA CON ANTEPROYECTO PARA URBANIZAR",
@@ -4602,7 +5586,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542284",
-        "Area terreno": "61935.55 m2"
+        "Area terreno": "61935.55 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE GASOLINERA VIA A LA COSTA",
@@ -4616,7 +5603,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542223",
-        "Area terreno": "6200 m2"
+        "Area terreno": "6200 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "SE VENDE TERRENO COMERCIAL VÍA SAMBORONDÓN",
@@ -4630,7 +5620,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "TR15420065",
-        "Area terreno": "84000 m2"
+        "Area terreno": "84000 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE TERRENO VIA A LA COSTA OPORTUNIDAD",
@@ -4644,7 +5637,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "154286",
-        "Area terreno": "140000 m2"
+        "Area terreno": "140000 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE TERRENO COMERCIAL VIA A LA COSTA",
@@ -4658,7 +5654,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542242",
-        "Area terreno": "11940 m2"
+        "Area terreno": "11940 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "TERRENO COMERCIAL VIA SAMBORONDON",
@@ -4672,7 +5671,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "154300",
-        "Area terreno": "1850 m2"
+        "Area terreno": "1850 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "TERRENO COMERCIAL AV LEON FEBRES CORDERO",
@@ -4686,7 +5688,10 @@
         "ciudad": "Daule",
         "provincia": "Guayas",
         "codigo": "154247",
-        "Area terreno": "11390 m2"
+        "Area terreno": "11390 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "EN VENTA EXCELENTE HACIENDA DE OPORTUNIDAD ZONA SAN VICENTE",
@@ -4700,7 +5705,10 @@
         "ciudad": "MANTA",
         "provincia": "Manabí",
         "codigo": "23K32N",
-        "Area terreno": "232.35 ha"
+        "Area terreno": "232.35 ha",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE TERRENO COMERCIAL SOBRE AV. LEON FEBRES CORDERO",
@@ -4714,7 +5722,10 @@
         "ciudad": "Daule",
         "provincia": "Guayas",
         "codigo": "TR15420167",
-        "Area terreno": "7250 m2"
+        "Area terreno": "7250 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "TERRENO ESPECTACULAR SOBRE LA AVENIDA FRANCISCO DE ORELLANA",
@@ -4728,7 +5739,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542254",
-        "Area terreno": "3400 m2"
+        "Area terreno": "3400 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "MACROS LOTES CERCA A POSORJA",
@@ -4742,7 +5756,10 @@
         "ciudad": "Playas",
         "provincia": "Guayas",
         "codigo": "1542112",
-        "Area terreno": "350000 m2"
+        "Area terreno": "350000 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "ESPECTACULAR TERRENO CON FRENTE AL MAR ZONA CABO PASADO",
@@ -4756,7 +5773,10 @@
         "ciudad": "BAHÍA DE CARÁQUEZ",
         "provincia": "Manabí",
         "codigo": "TR15420094",
-        "Area terreno": "656.37 ha"
+        "Area terreno": "656.37 ha",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "TERRENO VIA A ENGABAO DE VÍA A MAR",
@@ -4770,7 +5790,10 @@
         "ciudad": "Playas",
         "provincia": "Guayas",
         "codigo": "TR15420193",
-        "Area terreno": "370960 m2"
+        "Area terreno": "370960 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE TERRENO SOBRE VIA A LA COSTA",
@@ -4784,7 +5807,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "23KCQE",
-        "Area terreno": "80.70 ha"
+        "Area terreno": "80.70 ha",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "ALQUILER DE TERRENO EN AV LEON FEBRES CORDERO",
@@ -4798,7 +5824,10 @@
         "ciudad": "Daule",
         "provincia": "Guayas",
         "codigo": "1542369",
-        "Area terreno": "2150 m2"
+        "Area terreno": "2150 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE TERRENO VIA AUTOPISTA TERMINAL TERRESTRE PASCUALES",
@@ -4812,7 +5841,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "TR15420168",
-        "Area terreno": "16933.50 m2"
+        "Area terreno": "16933.50 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE TERRENO AL CARRETERO VIA COJIMIES",
@@ -4826,7 +5858,10 @@
         "ciudad": "PEDERNALES",
         "provincia": "Manabí",
         "codigo": "1542349",
-        "Area terreno": "510 ha"
+        "Area terreno": "510 ha",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "OPORTUNIDAD DE TERRENO AL COMIENZO DE LA VIA A LA COSTA",
@@ -4840,7 +5875,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "TR15420080",
-        "Area terreno": "100000 m2"
+        "Area terreno": "100000 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "SE VENDE TERRENO AL MAR COJIMIES",
@@ -4854,7 +5892,10 @@
         "ciudad": "JAMA",
         "provincia": "Manabí",
         "codigo": "1542319",
-        "Area terreno": "46.25 ha"
+        "Area terreno": "46.25 ha",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "TERRENO EN AYANGUE AL MAR",
@@ -4868,7 +5909,10 @@
         "ciudad": "SANTA ELENA",
         "provincia": "Santa Elena",
         "codigo": "50115468",
-        "Area terreno": "160000 m2"
+        "Area terreno": "160000 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "TERRENO SOBRE LA VÍA DATA - POSORJA MAS DE 800 MTS DE FRENTE A LA VÍA",
@@ -4882,7 +5926,10 @@
         "ciudad": "Playas",
         "provincia": "Guayas",
         "codigo": "154251",
-        "Area terreno": "268000 m2"
+        "Area terreno": "268000 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE TERRENO IDEAL PROYECTO INMOBILIARIO RUTA SPONDYLUS",
@@ -4896,7 +5943,10 @@
         "ciudad": "RUTA DEL SOL",
         "provincia": "Santa Elena",
         "codigo": "154254",
-        "Area terreno": "1400000 m2"
+        "Area terreno": "1400000 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "ALQUILER OFICINA FRENTE AL MALL DEL SOL",
@@ -4910,7 +5960,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542320",
-        "Area terreno": "49 m2"
+        "Area terreno": "49 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "SUITE DE ESTRENO URBANIZACIÓN LA PUNTILLA",
@@ -4924,7 +5977,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542132",
-        "Area terreno": "60 m2"
+        "Area terreno": "60 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "ALQUILER DE SUITE SAMBORONDON PLAZA",
@@ -4938,7 +5994,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542361",
-        "Area terreno": "40 m2"
+        "Area terreno": "40 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "DEPARTAMENTO DE ESTRENO EN URBANIZACIÓN LA PUNTILLA",
@@ -4952,7 +6011,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542133",
-        "Area terreno": "115 m2"
+        "Area terreno": "115 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "SE ALQUILA BONITO DEPARTAMENTO LOMAS DE URDESA",
@@ -4966,7 +6028,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542218",
-        "Area terreno": "170 m2"
+        "Area terreno": "170 m2",
+        "telefono": "0997227351",
+        "email": "cjsaavedra@cedenocabanilla.com",
+        "agente": "CARLOS JULIO SAAVEDRA"
     },
     {
         "titulo": "ALQUILER DE SUITE EDIFICO SAMBORONDON PLAZA",
@@ -4980,7 +6045,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542364",
-        "Area terreno": "40 m2"
+        "Area terreno": "40 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "DE ESTRENO ALQUILER CASA PUNTA ESMERALDA",
@@ -4994,7 +6062,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542229",
-        "Area terreno": "220 m2"
+        "Area terreno": "220 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "SE ALQUILA OFICINA EN TORRES DE LA MERCED",
@@ -5008,7 +6079,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542368",
-        "Area terreno": "55 m2"
+        "Area terreno": "55 m2",
+        "telefono": "0997227351",
+        "email": "cjsaavedra@cedenocabanilla.com",
+        "agente": "CARLOS JULIO SAAVEDRA"
     },
     {
         "titulo": "PROXIMA INAUGURACION CENTRO COMERCIAL  EN AV. CARLOS JULIO AROSEMENA",
@@ -5022,7 +6096,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "LC15420033",
-        "Area terreno": "2000 m2"
+        "Area terreno": "2000 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "ALQUILER DE OFICINA EN EL CENTRO DE LA CIUDAD",
@@ -5036,7 +6113,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "23LNKQ",
-        "Area terreno": "130 m2"
+        "Area terreno": "130 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "SE ALQUILA OFICINA INTERIOR EN AVENIDA 9 DE OCTUBRE",
@@ -5050,7 +6130,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542259",
-        "Area terreno": "55 m2"
+        "Area terreno": "55 m2",
+        "telefono": "0997227351",
+        "email": "cjsaavedra@cedenocabanilla.com",
+        "agente": "CARLOS JULIO SAAVEDRA"
     },
     {
         "titulo": "OFICINA DE ALQUILER ENTRERIOS",
@@ -5064,7 +6147,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542200",
-        "Area terreno": "55 m2"
+        "Area terreno": "55 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "SUITE EN KENNEDY NORTE CON O SIN MUEBLES",
@@ -5078,7 +6164,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "CV15420004",
-        "Area terreno": "50 m2"
+        "Area terreno": "50 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VILLA SAN ANTONIO A PRECIO DE OPORTUNDAD",
@@ -5092,7 +6181,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "CR15420152",
-        "Area terreno": "106 m2"
+        "Area terreno": "106 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "ALQUILER DE OFICINA ESQUINERA PRIMER PISO",
@@ -5106,7 +6198,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542247",
-        "Area terreno": "190 m2"
+        "Area terreno": "190 m2",
+        "telefono": "0997227351",
+        "email": "cjsaavedra@cedenocabanilla.com",
+        "agente": "CARLOS JULIO SAAVEDRA"
     },
     {
         "titulo": "SE ALQUILA LOCAL COMERCIAL CON OFICINA",
@@ -5120,7 +6215,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542246",
-        "Area terreno": "215 m2"
+        "Area terreno": "215 m2",
+        "telefono": "0997227351",
+        "email": "cjsaavedra@cedenocabanilla.com",
+        "agente": "CARLOS JULIO SAAVEDRA"
     },
     {
         "titulo": "ALQUILO OFICINA TORRES DEL NORTE",
@@ -5134,7 +6232,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542206",
-        "Area terreno": "100.24 m2"
+        "Area terreno": "100.24 m2",
+        "telefono": "0997227351",
+        "email": "cjsaavedra@cedenocabanilla.com",
+        "agente": "CARLOS JULIO SAAVEDRA"
     },
     {
         "titulo": "ALQUILO OFICINA EN KENNEDY NORTE MIGUEL H. ALCIVAR",
@@ -5148,7 +6249,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542203",
-        "Area terreno": "105.93 m2"
+        "Area terreno": "105.93 m2",
+        "telefono": "0997227351",
+        "email": "cjsaavedra@cedenocabanilla.com",
+        "agente": "CARLOS JULIO SAAVEDRA"
     },
     {
         "titulo": "SE ALQUILA OFICINA EN KENNEDY NORTE",
@@ -5162,7 +6266,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542205",
-        "Area terreno": "113.39 m2"
+        "Area terreno": "113.39 m2",
+        "telefono": "0997227351",
+        "email": "cjsaavedra@cedenocabanilla.com",
+        "agente": "CARLOS JULIO SAAVEDRA"
     },
     {
         "titulo": "ALQUILER DE SUITE EDIFICIO SAMBORONDÓN PLAZA",
@@ -5176,7 +6283,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542363",
-        "Area terreno": "54 m2"
+        "Area terreno": "54 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "DEPARTAMENTO OLIVOS 2 PRIMER PISO",
@@ -5190,7 +6300,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "23LQOC",
-        "Area terreno": "158 m2"
+        "Area terreno": "158 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "ALQUILER DE OFICINA EN TORRES DEL NORTE",
@@ -5204,7 +6317,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542204",
-        "Area terreno": "103.22 m2"
+        "Area terreno": "103.22 m2",
+        "telefono": "0997227351",
+        "email": "cjsaavedra@cedenocabanilla.com",
+        "agente": "CARLOS JULIO SAAVEDRA"
     },
     {
         "titulo": "ALQUILO DEPARTAMENTO AMUEBLADO",
@@ -5218,7 +6334,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542129",
-        "Area terreno": "98 m2"
+        "Area terreno": "98 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "ALQUILO TORRES DEL NORTE OFICINA TRES AMBIENTES",
@@ -5232,7 +6351,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542201",
-        "Area terreno": "108.35 m2"
+        "Area terreno": "108.35 m2",
+        "telefono": "0997227351",
+        "email": "cjsaavedra@cedenocabanilla.com",
+        "agente": "CARLOS JULIO SAAVEDRA"
     },
     {
         "titulo": "ALQUILO OFICINA EN KENNEDY NORTE PARQUEO PRIVADO",
@@ -5246,7 +6368,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542202",
-        "Area terreno": "108.90 m2"
+        "Area terreno": "108.90 m2",
+        "telefono": "0997227351",
+        "email": "cjsaavedra@cedenocabanilla.com",
+        "agente": "CARLOS JULIO SAAVEDRA"
     },
     {
         "titulo": "ALQUILER DEPARTAMENTO URDESA",
@@ -5260,7 +6385,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "23L90R",
-        "Area terreno": "56 m2"
+        "Area terreno": "56 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "ALQUILER DE  DEPARTAMENTO PLANTA BAJA SAMBORONDON",
@@ -5274,7 +6402,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542355",
-        "Area terreno": "104 m2"
+        "Area terreno": "104 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "SE ALQUILA OFICINA CON VISTA AL MALECÓN SIMÓN BOLÍVAR",
@@ -5288,7 +6419,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542245",
-        "Area terreno": "124 m2"
+        "Area terreno": "124 m2",
+        "telefono": "0997227351",
+        "email": "cjsaavedra@cedenocabanilla.com",
+        "agente": "CARLOS JULIO SAAVEDRA"
     },
     {
         "titulo": "ALQUILER DE DEPARTAMENTO KENNEDY NORTE",
@@ -5302,7 +6436,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542130",
-        "Area terreno": "160 m2"
+        "Area terreno": "160 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "ALQUILO OFICINA EN KENNEDY NORTE",
@@ -5316,7 +6453,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542207",
-        "Area terreno": "136 m2"
+        "Area terreno": "136 m2",
+        "telefono": "0997227351",
+        "email": "cjsaavedra@cedenocabanilla.com",
+        "agente": "CARLOS JULIO SAAVEDRA"
     },
     {
         "titulo": "SUITE PUERTO SANTA ANA",
@@ -5330,7 +6470,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542326",
-        "Area terreno": "60 m2"
+        "Area terreno": "60 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "ALQUILER LOCAL  PLANTA ALTA  CENTRO COMERCIAL  AVENTURA PLAZA",
@@ -5344,7 +6487,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "LC15420043",
-        "Area terreno": "123 m2"
+        "Area terreno": "123 m2",
+        "telefono": "0997227351",
+        "email": "cjsaavedra@cedenocabanilla.com",
+        "agente": "CARLOS JULIO SAAVEDRA"
     },
     {
         "titulo": "VENTA DE VILLA KM 3 VIA SAMBORONDON",
@@ -5358,7 +6504,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542234",
-        "Area terreno": "225 m2"
+        "Area terreno": "225 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "EXCELENTE OPORTUNIDAD DEPARTAMENTO SAMBORONDON",
@@ -5372,7 +6521,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "DR15420090",
-        "Area terreno": "170 m2"
+        "Area terreno": "170 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "LINDO DPTO. KENNEDY NORTE FULL AMOBLADO",
@@ -5386,7 +6538,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "DR15420150",
-        "Area terreno": "125 m2"
+        "Area terreno": "125 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "HERMOSO DEPARTAMENTO PUERTO SANTA ANA",
@@ -5400,7 +6555,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "DR15420158",
-        "Area terreno": "85.98 m2"
+        "Area terreno": "85.98 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "DEPARTAMENTO EN ALQUILER URB TORRES DEL RIO",
@@ -5414,7 +6572,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542296",
-        "Area terreno": "159 m2"
+        "Area terreno": "159 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "SE ALQUILA OFICINA CON VISTA AL MALECÓN 2000",
@@ -5428,7 +6589,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542258",
-        "Area terreno": "124.37 m2"
+        "Area terreno": "124.37 m2",
+        "telefono": "0997227351",
+        "email": "cjsaavedra@cedenocabanilla.com",
+        "agente": "CARLOS JULIO SAAVEDRA"
     },
     {
         "titulo": "LOCAL COMERCIAL CON EXCELENTE FRENTE",
@@ -5442,7 +6606,10 @@
         "ciudad": "Daule",
         "provincia": "Guayas",
         "codigo": "154281",
-        "Area terreno": "105.80 m2"
+        "Area terreno": "105.80 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "ALQUILER LOCAL EN CC AVENTURA PLAZA",
@@ -5456,7 +6623,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542196",
-        "Area terreno": "83.25 m2"
+        "Area terreno": "83.25 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "ALQUILER LOCAL PLANTA BAJA CENTRO COMERCIAL AVENTURA PLAZA",
@@ -5470,7 +6640,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "LC15420042",
-        "Area terreno": "125 m2"
+        "Area terreno": "125 m2",
+        "telefono": "0997227351",
+        "email": "cjsaavedra@cedenocabanilla.com",
+        "agente": "CARLOS JULIO SAAVEDRA"
     },
     {
         "titulo": "ALQUILO EN TORRES HILTON COLON ELEGANTE Y CONFORTABLE DEPARTAMENTO",
@@ -5484,7 +6657,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542232",
-        "Area terreno": "106 m2"
+        "Area terreno": "106 m2",
+        "telefono": "0997227351",
+        "email": "cjsaavedra@cedenocabanilla.com",
+        "agente": "CARLOS JULIO SAAVEDRA"
     },
     {
         "titulo": "DEPARTAMENTO EXCLUSIVO HILTON COLON KENNEDY NORTE",
@@ -5498,7 +6674,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "DR15420164",
-        "Area terreno": "120 m2"
+        "Area terreno": "120 m2",
+        "telefono": "0997227351",
+        "email": "cjsaavedra@cedenocabanilla.com",
+        "agente": "CARLOS JULIO SAAVEDRA"
     },
     {
         "titulo": "HERMOSA SUITE FULL AMOBLADO CUIDAD DE SOL",
@@ -5512,7 +6691,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "CV0001",
-        "Area terreno": "48 m2"
+        "Area terreno": "48 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "ALQUILER  DEPARTAMENTO PLANTA BAJA  FULL AMOBLADO GUAYAQUIL TENIS",
@@ -5526,7 +6708,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542222",
-        "Area terreno": "90 m2"
+        "Area terreno": "90 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "DE OPORTUNIDAD OFICINA EN AV MIGUEL H ALCIVAR",
@@ -5540,7 +6725,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "OC15420026",
-        "Area terreno": "108 m2"
+        "Area terreno": "108 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "DEPARTAMENTO PLANTA BAJA VIA SAMBORONDON",
@@ -5554,7 +6742,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "154283",
-        "Area terreno": "290 m2"
+        "Area terreno": "290 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "ALQUILER DE VILLA KM 3.5 VIA SAMBORONDON",
@@ -5568,7 +6759,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542313",
-        "Area terreno": "200 m2"
+        "Area terreno": "200 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "ALQUILER LOCAL SAMBORONDON PLAZA",
@@ -5581,7 +6775,10 @@
         "barrio": "Samborondón",
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
-        "codigo": "1542366"
+        "codigo": "1542366",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "ALQUILER DE VILLA URBANIZACION LA PUNTILLA",
@@ -5595,7 +6792,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542354",
-        "Area terreno": "330 m2"
+        "Area terreno": "330 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "EXCELENTE UBICACION OFICINA EN LA CIUDAD DEL RIO",
@@ -5609,7 +6809,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "OC15420024",
-        "Area terreno": "86 m2"
+        "Area terreno": "86 m2",
+        "telefono": "0997227351",
+        "email": "cjsaavedra@cedenocabanilla.com",
+        "agente": "CARLOS JULIO SAAVEDRA"
     },
     {
         "titulo": "ALQUILER VISTA AL RIO PUERTO ACQUA TOTALMENTE  AMOBLADO",
@@ -5623,7 +6826,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542357",
-        "Area terreno": "140 m2"
+        "Area terreno": "140 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "ALQUILER DE LOCAL COMERCIAL PRIMERO PISO ESQUINERO",
@@ -5637,7 +6843,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542316",
-        "Area terreno": "85 m2"
+        "Area terreno": "85 m2",
+        "telefono": "0997227351",
+        "email": "cjsaavedra@cedenocabanilla.com",
+        "agente": "CARLOS JULIO SAAVEDRA"
     },
     {
         "titulo": "SE ALQUILA DEPARTAMENTO COMPLETAMENTE AMUEBLADO EN KENNEDY NORTE",
@@ -5651,7 +6860,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542268",
-        "Area terreno": "175 m2"
+        "Area terreno": "175 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "SE ALQUILA GALPÓN BODEGA EN MAPASINGUE DE GRAN ALTURA INTERIOR",
@@ -5665,7 +6877,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542221",
-        "Area terreno": "450 m2"
+        "Area terreno": "450 m2",
+        "telefono": "0997227351",
+        "email": "cjsaavedra@cedenocabanilla.com",
+        "agente": "CARLOS JULIO SAAVEDRA"
     },
     {
         "titulo": "LOCAL COMERCIAL EN RENTA VIA SAMBORONDON",
@@ -5679,7 +6894,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "LC15420068",
-        "Area terreno": "132 m2"
+        "Area terreno": "132 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "ALQUILER DE CAMARONERA EN SANTA ELENA",
@@ -5693,7 +6911,10 @@
         "ciudad": "RUTA DEL SOL",
         "provincia": "Santa Elena",
         "codigo": "1542302",
-        "Area terreno": "250 m2"
+        "Area terreno": "250 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "ALQUILER DE DEPARTAMENTO RIVERFRONT II",
@@ -5707,7 +6928,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542312",
-        "Area terreno": "90 m2"
+        "Area terreno": "90 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE DEPARTAMENTO DE ESTRENO EN PLANTA BAJA URBANIZACION MANGLERO",
@@ -5721,7 +6945,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542181",
-        "Area terreno": "187.90 m2"
+        "Area terreno": "187.90 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VIA A LA COSTA - LAGUNA CLUB",
@@ -5735,7 +6962,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "DR15420044",
-        "Area terreno": "210 m2"
+        "Area terreno": "210 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VILLA KM 3.5 VIA SAMBORONDON",
@@ -5749,7 +6979,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "154311",
-        "Area terreno": "200 m2"
+        "Area terreno": "200 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VILLA ALQUILER IDEAL GUARDERIA CONSULTORIOS ACADEMIAS",
@@ -5763,7 +6996,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542337",
-        "Area terreno": "394 m2"
+        "Area terreno": "394 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "ALQUILER DE OFICINA DOBLE SAMBORONDON PLAZA",
@@ -5777,7 +7013,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542360",
-        "Area terreno": "74 m2"
+        "Area terreno": "74 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "ALQUILER DE LOCAL COMERCIAL AMPLIO EN AV FRANCISCO DE ORELLANA",
@@ -5791,7 +7030,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542137",
-        "Area terreno": "116 m2"
+        "Area terreno": "116 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "ALQUILER DE OFICINAS CON VISTA AL RIO",
@@ -5805,7 +7047,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542380",
-        "Area terreno": "139.27 m2"
+        "Area terreno": "139.27 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "ALQUILER DE LOCAL VISTA AL RIO EN CIUDAD DEL RIO",
@@ -5819,7 +7064,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542189",
-        "Area terreno": "82 m2"
+        "Area terreno": "82 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "BODEGA IMPECABLE LISTA PARA LA ENTREGA VIA DURAN-YAGUACHI",
@@ -5833,7 +7081,10 @@
         "ciudad": "Durán",
         "provincia": "Guayas",
         "codigo": "1542190",
-        "Area terreno": "478.91 m2"
+        "Area terreno": "478.91 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "ALQUILER DE LOCAL COMERCIAL VIA A SAMBORONDON",
@@ -5847,7 +7098,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542342",
-        "Area terreno": "200 m2"
+        "Area terreno": "200 m2",
+        "telefono": "-",
+        "email": "polivesfc@cedenocabanilla.com",
+        "agente": "PATRICIA OLIVES FEBRES CORDERO"
     },
     {
         "titulo": "Oportunidad Hermoso Departamento Via a La Costa",
@@ -5861,7 +7115,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "DR15420045",
-        "Area terreno": "170 m2"
+        "Area terreno": "170 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VILLA  EN EL KM 7 VIA A SAMBORONDON",
@@ -5875,7 +7132,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542127",
-        "Area terreno": "360 m2"
+        "Area terreno": "360 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "ALQUILER DE OFICINA COMERCIAL EN KENNEDY NORTE EN PLANTA BAJA",
@@ -5889,7 +7149,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542171",
-        "Area terreno": "237 m2"
+        "Area terreno": "237 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "DEPARTAMENTO DE LUJO PLANTA BAJA VIA SAMBORONDON",
@@ -5903,7 +7166,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "154284",
-        "Area terreno": "180 m2"
+        "Area terreno": "180 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE LOCAL 100% AMUEBLADO EN EL EDIFICIO THE POINT",
@@ -5917,7 +7183,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542186",
-        "Area terreno": "82 m2"
+        "Area terreno": "82 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "ALQUILER DE TERRENO",
@@ -5931,7 +7200,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542381",
-        "Area terreno": "2486 m2"
+        "Area terreno": "2486 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "ALQUILER BODEGA GALPON INMACONSA",
@@ -5945,7 +7217,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": " BI15420018",
-        "Area terreno": "700 m2"
+        "Area terreno": "700 m2",
+        "telefono": "0997227351",
+        "email": "cjsaavedra@cedenocabanilla.com",
+        "agente": "CARLOS JULIO SAAVEDRA"
     },
     {
         "titulo": "VENTA DE UNICO TERRENO A DOS CALLES EN LA AVENIDA MIGUEL H ALCIVAR",
@@ -5959,7 +7234,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542187",
-        "Area terreno": "1000 m2"
+        "Area terreno": "1000 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "LOCAL EN CENTRO COMERCIAL EN LA KENNEDY",
@@ -5973,7 +7251,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "LC15420032",
-        "Area terreno": "120.60 m2"
+        "Area terreno": "120.60 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "SE ALQUILA EN EL CENTRO OFICINA GRANDE",
@@ -5987,7 +7268,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542243",
-        "Area terreno": "540 m2"
+        "Area terreno": "540 m2",
+        "telefono": "0997227351",
+        "email": "cjsaavedra@cedenocabanilla.com",
+        "agente": "CARLOS JULIO SAAVEDRA"
     },
     {
         "titulo": "SE ALQUILA OFICINA GRANDE EN EL CENTRO DE GUAYAQUIL",
@@ -6001,7 +7285,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542244",
-        "Area terreno": "540 m2"
+        "Area terreno": "540 m2",
+        "telefono": "0997227351",
+        "email": "cjsaavedra@cedenocabanilla.com",
+        "agente": "CARLOS JULIO SAAVEDRA"
     },
     {
         "titulo": "LOCAL COMERCIAL AVENTURA PLAZA",
@@ -6015,7 +7302,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542197",
-        "Area terreno": "280 m2"
+        "Area terreno": "280 m2",
+        "telefono": "0997227351",
+        "email": "cjsaavedra@cedenocabanilla.com",
+        "agente": "CARLOS JULIO SAAVEDRA"
     },
     {
         "titulo": "ALQUILER ESPECTACULAR LOCAL COMERCIAL CENTRO COMERCIAL VIA SAMBORONDON",
@@ -6029,7 +7319,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "LC15420044",
-        "Area terreno": "250 m2"
+        "Area terreno": "250 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "ALQUILER DE LOCAL ESQUINERO EN AV 9 DE OCTUBRE",
@@ -6043,7 +7336,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542334",
-        "Area terreno": "454.45 m2"
+        "Area terreno": "454.45 m2",
+        "telefono": "0997227351",
+        "email": "cjsaavedra@cedenocabanilla.com",
+        "agente": "CARLOS JULIO SAAVEDRA"
     },
     {
         "titulo": "ALQUILER DE VILLA AMOBLADA ESTILO SERRANO KM 3 VIA SAMBORONDON",
@@ -6057,7 +7353,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542172",
-        "Area terreno": "550 m2"
+        "Area terreno": "550 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "ALQUILO TERRENO INDUSTRIAL VIA DURAN TAMBO",
@@ -6071,7 +7370,10 @@
         "ciudad": "Durán",
         "provincia": "Guayas",
         "codigo": "TR15420085",
-        "Area terreno": "5000 m2"
+        "Area terreno": "5000 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "LOCAL COMERCIAL VIA SAMBORONDON IDEAL PARA VENTA DE ARTICULOS HOGAR",
@@ -6085,7 +7387,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542341",
-        "Area terreno": "388 m2"
+        "Area terreno": "388 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "ALQUILER DE BODEGA GALPON INMACONSA",
@@ -6099,7 +7404,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "BI15420028",
-        "Area terreno": "1200 m2"
+        "Area terreno": "1200 m2",
+        "telefono": "0997227351",
+        "email": "cjsaavedra@cedenocabanilla.com",
+        "agente": "CARLOS JULIO SAAVEDRA"
     },
     {
         "titulo": "EXCELENTE  LOCAL COMERCIAL CON BODEGAS Y OFICINAS",
@@ -6113,7 +7421,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": " LC15420014",
-        "Area terreno": "550 m2"
+        "Area terreno": "550 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "ALQUILER DE TERRENO VIA DATA POSORJA",
@@ -6127,7 +7438,10 @@
         "ciudad": "Playas",
         "provincia": "Guayas",
         "codigo": "1542377",
-        "Area terreno": "50000 m2"
+        "Area terreno": "50000 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "TERRENO INDUSTRIAL DURAN - TAMBO",
@@ -6141,7 +7455,10 @@
         "ciudad": "Durán",
         "provincia": "Guayas",
         "codigo": "1542176",
-        "Area terreno": "5700 m2"
+        "Area terreno": "5700 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "LOCAL COMERCIAL ZONA CITY MALL",
@@ -6155,7 +7472,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "154307",
-        "Area terreno": "420 m2"
+        "Area terreno": "420 m2",
+        "telefono": "0997227351",
+        "email": "cjsaavedra@cedenocabanilla.com",
+        "agente": "CARLOS JULIO SAAVEDRA"
     },
     {
         "titulo": "TERRENO INMACONSA ESQUINERO",
@@ -6169,7 +7489,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "154290",
-        "Area terreno": "11000 m2"
+        "Area terreno": "11000 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "TERRENO COMERCIAL FRENTE A LA UPSE",
@@ -6183,7 +7506,10 @@
         "ciudad": "LA LIBERTAD",
         "provincia": "Santa Elena",
         "codigo": "TR15420176",
-        "Area terreno": "5000 m2"
+        "Area terreno": "5000 m2",
+        "telefono": "0993909302",
+        "email": "lmosquera@cedenocabanilla.com",
+        "agente": "LOURDES MOSQUERA VALDEZ"
     },
     {
         "titulo": "ALQUILER DE LOCAL COMERCIAL EN VIA A SAMBORONDON",
@@ -6197,7 +7523,10 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542270",
-        "Area terreno": "225 m2"
+        "Area terreno": "225 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "VENTA DE TERRENO KM 10  SOBRE LA VIA SALITRE",
@@ -6211,7 +7540,10 @@
         "ciudad": "Daule",
         "provincia": "Guayas",
         "codigo": "1542393",
-        "Area terreno": "20000 m2"
+        "Area terreno": "20000 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     },
     {
         "titulo": "EDIFICIO COMERCIAL ESQUINERO CERCA DE POLICENTRO",
@@ -6225,6 +7557,9 @@
         "ciudad": "Guayaquil",
         "provincia": "Guayas",
         "codigo": "1542101",
-        "Area terreno": "1600 m2"
+        "Area terreno": "1600 m2",
+        "telefono": "",
+        "email": "",
+        "agente": ""
     }
 ]

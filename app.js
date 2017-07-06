@@ -3,4 +3,5 @@ require('babel-core/register');
 
 
 //require('./index.js');
-require('./page.js');
+//require('./page.js');
+require('./ejecutivos.js');

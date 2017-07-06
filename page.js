@@ -9,6 +9,7 @@ const x = xray({
 });
 
 function fetchPage(url){
+    console.log(`Request to: ${url}`);
     return new Promise( (resolve, reject) => {
         x(url,'body', [{
             titulo: '.page-header | trim',
@@ -40,35 +41,41 @@ const propiedades = './propiedades.json';
 
 
 const agregarPropiedad = (result) =>{
-    
-    const file = fs.readFileSync(propiedades,'utf8');
 
-    if(file.length > 0){
-        const propiedad = JSON.parse(file);
-        const nuevaPropiedad = JSON.stringify(propiedad.concat(result));
-        fs.writeFileSync(propiedades,nuevaPropiedad);
-    }
-    else{
-        const nuevaPropiedad = JSON.stringify(result);
-        fs.writeFileSync(propiedades, `[${nuevaPropiedad}]`);
+    console.log(typeof result === "object" ? 'ok' : 'error');
+
+    if(result !== 'undefined'){
+        const file = fs.readFileSync(propiedades,'utf8');
+
+        if(file.length > 0){
+            const propiedad = JSON.parse(file);
+            const nuevaPropiedad = JSON.stringify(propiedad.concat(result));
+            fs.writeFileSync(propiedades,nuevaPropiedad);
+        }
+        else{
+            const nuevaPropiedad = JSON.stringify(result);
+            fs.writeFileSync(propiedades, `[${nuevaPropiedad}]`);
+        }
     }
 };
 
-const agregarError = () =>{
-
+const agregarError = (err) =>{
+    console.log(err);
 };
 
 
+// console.log(enlaces.slice(0,50));
 
 
 
-enlaces.map( item => {
-    fetchPage(item.enlace)
-        .then(agregarPropiedad)
-        .catch(err => {
-            console.log(err);
-        });
-});
+
+
+
+// enlaces.slice(425,445).map( item => {
+//     fetchPage(item.enlace)
+//         .then(agregarPropiedad)
+//         .catch(agregarError);
+// });
 
 
 
